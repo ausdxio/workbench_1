@@ -1,7 +1,3 @@
-// Saving work
-// android
-//tab 1
-
 Request
  sender:(http://dxa.gov.au/definition/trc/de26)
  requestor:(http://dxa.gov.au/definition/trc/de26)
@@ -33,5 +29,3 @@ Address
  postcode:(http://dxa.gov.au/definition/trc/de21)
  state:(http://dxa.gov.au/definition/trc/de22)
  country:(http://dxa.gov.au/definition/trc/de15)
-//3
-
