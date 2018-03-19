@@ -29,5 +29,9 @@ Address
  postcode:(http://dxa.gov.au/definition/trc/de21)
  state:(http://dxa.gov.au/definition/trc/de22)
  country:(http://dxa.gov.au/definition/trc/de15)
+<<<<<<< HEAD
 
  // commit test
+=======
+//1
+>>>>>>> branch 'master' of https://github.com/ausdxio/workbench_1.git
