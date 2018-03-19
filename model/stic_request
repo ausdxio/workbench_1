@@ -22,6 +22,7 @@ Person
  givenName:(http://dxa.gov.au/definition/trc/de41)
  middleName:(http://dxa.gov.au/definition/trc/de42)
 
+/*
 Address
  line1:(http://dxa.gov.au/definition/trc/de17)
  line2:(http://dxa.gov.au/definition/trc/de18)
@@ -29,4 +30,4 @@ Address
  postcode:(http://dxa.gov.au/definition/trc/de21)
  state:(http://dxa.gov.au/definition/trc/de22)
  country:(http://dxa.gov.au/definition/trc/de15)
-
+*/
