@@ -1,0 +1,25 @@
+# Electronic Contact Facsimilie Area Code
+
+## identifier
+de10
+
+## status
+published
+
+## type
+
+string
+
+## definition
+
+This element describes a standard Australian Area Code as used in conjunction with facsimilie numbers
+
+## facets
+- pattern=[0-9]{2}
+
+## syntax
+
+### xbrl
+- classification=py/pyde/pyde.02.00
+- name=ElectronicContact.Facsimilie.Area.Code
+- period=dimension
