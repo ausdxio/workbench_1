@@ -1,0 +1,20 @@
+# Superannuation Payment Repatriation To Employer Indicator
+
+## identifier
+de5459
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+Has  there been repatriation to the employer during the relevant period?
+
+## guidance
+A choice of Y/N values.
+
+Y = There has been repatriation to the employer during the relevant period.
+N = There has not been repatriation to the employer during the relevant period.
+

@@ -1,0 +1,19 @@
+# Regulatory Disclosures Insurance Calls Made On Members Contractual Obligation To Pay Indicator
+
+## identifier
+de9051
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+Indicate if calls can be made on members and there is a contractual obligation to pay.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = when calls are made on members over and above contributions the member has a contractual obligation to pay
+FALSE = when calls are made on members over and above contributions the member does not have a contractual obligation to pay
+

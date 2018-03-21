@@ -1,0 +1,20 @@
+# Superannuation Regulatory Information Trustee Financial Advice Indicator
+
+## identifier
+de5170
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+Does the trustee of the reporting party provides financial advice?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The trustee of the reporting party provides financial advice.
+FALSE = The trustee of the reporting party does not provide financial advice.
+

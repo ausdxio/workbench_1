@@ -1,0 +1,19 @@
+# Liabilities Insurance Future Policy Premiums Reinsurance Amount
+
+## identifier
+de4371
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+Where projection techniques are used, report the component of the best estimate liability as at the relevant date, relating to the net present value of Future Policy Premiums that have been ceded under reinsurance.
+
+Where projection techniques are not used, report nil.
+
+## guidance
+undefined
+

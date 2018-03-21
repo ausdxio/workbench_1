@@ -1,0 +1,19 @@
+# Regulatory Disclosures Insurance Contract Pay Out Claim Irrespective Of Protection Wording Indicator
+
+## identifier
+de9007
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+Indicate if the insurance contract pays out the claim, irrespective of whether the claim is within the protection wording of the cover offered to the member for all policies.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = insurance contract pays out the claim, irrespective of whether the claim is within the protection wording of the cover offered to the member for all policies
+FALSE = insurance contract does not pay out the claim, if the claim is outside the protection wording of the cover offered to the member for all policies
+

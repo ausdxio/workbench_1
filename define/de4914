@@ -1,0 +1,20 @@
+# Auditor Appointment Membership National Institute Of Accountants Indicator
+
+## identifier
+de4914
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+Is the reporting party  a member of the National Institute Of Accountants?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party is a member of the National Institute Of Accountants.
+FALSE = The reporting party is not a member of the National Institute Of Accountants.
+

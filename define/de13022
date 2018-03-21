@@ -1,0 +1,17 @@
+# Financial Risk Credit Credit Value Adjustment Capital Charge Amount
+
+## identifier
+de13022
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This is the value, as at the relevant date, for the capital charge applied to the credit value adjustment (CVA) risk. This is the difference between the risk-free portfolio value and the true portfolio value that takes into account the possibility of a counterparty's default. It is calculated in accordance with the relevant prudential standard.
+
+## guidance
+undefined
+

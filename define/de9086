@@ -1,0 +1,21 @@
+# Regulatory Disclosures Maximum Event Retention Method Used Code
+
+## identifier
+de9086
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This is, for the duration of the relevant period, the method used to establish Maximum Event Retention (MER).
+
+## guidance
+Valid enumeration values are:
+Proprietary Risk Modelling software;
+Actuarial consultation;
+Other consultation; or
+Other.
+

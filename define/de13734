@@ -1,0 +1,19 @@
+# Organisation Control Chairperson Indicator
+
+## identifier
+de13734
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This indicates whether the individual is the chairperson of the board meeting.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the individual is the chairperson of the board meeting.
+false = the individual is not the chairperson of the board meeting.
+

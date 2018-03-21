@@ -1,0 +1,19 @@
+# Superannuation Regulatory Information Notifiable Event Indicator
+
+## identifier
+de13133
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This indicates whether a notifiable event has occurred during the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = a notifiable event has occurred during the relevant period. 
+false = a notifiable event has not occurred during the relevant period.
+

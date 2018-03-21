@@ -1,0 +1,19 @@
+# Superannuation Regulatory Information Group Insurance Arrangement Indicator
+
+## identifier
+de13148
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This indicates whether a contract between a Registrable Superannuation Entity (RSE) licensee and an insurance company provides insured benefits in respect of a group of members or single member.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = Where the insurance arrangement covers more than one member. 
+false = Where the insurance arrangement covers no more than one member.
+

@@ -1,0 +1,19 @@
+# Auditor Report Opinion Adverse Indicator
+
+## identifier
+de9029
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This is the indicator for an audit opinion of adverse, for the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The audit opinion for the relevant period was Adverse
+FALSE = The audit opinion for the relevant period was not Adverse
+

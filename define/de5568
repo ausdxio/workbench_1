@@ -1,0 +1,20 @@
+# Service Provider External Administrator Indicator
+
+## identifier
+de5568
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+Has the reporting party engaged an external administrator for the fund?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party has engaged an external administrator for the fund.
+FALSE = The reporting party has not engaged an external administrator for the fund.
+

@@ -1,0 +1,19 @@
+# Superannuation Regulatory Information Investments Derivatives Indicator
+
+## identifier
+de13163
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This indicates whether the reporting entity holds investments in derivative contracts.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the reporting entity holds investments in derivative contracts. 
+false = the reporting entity does not hold investments in derivative contracts.
+

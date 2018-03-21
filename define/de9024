@@ -1,0 +1,19 @@
+# Auditor Report Opinion Subject To Indicator
+
+## identifier
+de9024
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This is the indicator for an audit opinion of subject to, for the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The audit opinion for the relevant period was Subject to
+FALSE = The audit opinion for the relevant period was not Subject to
+

@@ -1,0 +1,19 @@
+# Regulatory Disclosures Senior Officer Outside Australia Indicator
+
+## identifier
+de8664
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+Is the responsible person the Senior Officer outside Australia, as required and determined in accordance with relevant Prudential Standards?
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = the responsible person is the Senior Officer outside Australia, as required and determined in accordance with relevant Prudential Standards.
+FALSE = the responsible person is not the Senior Officer outside Australia, as required and determined in accordance with relevant Prudential Standards.
+

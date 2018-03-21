@@ -1,0 +1,17 @@
+# Liabilities Initial Margin Received Amount
+
+## identifier
+de14871
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+The balance sheet liability associated with initial margin received that cannot be included in calculating net stable funding ratio (NSFR) derivative assets.
+
+## guidance
+undefined
+

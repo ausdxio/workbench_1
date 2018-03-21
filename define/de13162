@@ -1,0 +1,19 @@
+# Superannuation Regulatory Information Financial Product Advice Indicator
+
+## identifier
+de13162
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This indicates whether financial product advice is provided.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = financial product advice is provided. 
+false = financial product advice is not provided.
+

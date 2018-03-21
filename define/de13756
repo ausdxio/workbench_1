@@ -1,0 +1,20 @@
+# Organisation Control Responsible Person Status Change Code
+
+## identifier
+de13756
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This indicates the status of the responsible person.
+
+## guidance
+The valid enumerated values are:  
+Changed = if any information about an existing responsible person has changed.  
+Unchanged = if all information about an existing responsible person remains unchanged.  
+No longer acting as a responsible person = if the existing responsible person is no longer a responsible person.
+

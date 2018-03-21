@@ -1,0 +1,19 @@
+# Regulatory Disclosures Insurance Automatically Reinstated Indicator
+
+## identifier
+de9056
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+Indicate if all insurances are automatically reinstated after loss for all policies.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = all insurances are automatically reinstated after loss for all policies
+FALSE = not all insurances are automatically reinstated after loss for all policies
+

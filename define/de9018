@@ -1,0 +1,19 @@
+# Regulatory Disclosures Audited Financial Statements Distributed All Members Indicator
+
+## identifier
+de9018
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+Indicate if annual audited financial statements are distributed to all members.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = annual audited financial statements are distributed to all members
+FALSE = annual audited financial statements are not distributed to all members
+

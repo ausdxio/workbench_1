@@ -1,0 +1,19 @@
+# Regulatory Disclosures Business Activity Indicator
+
+## identifier
+de13106
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This indicates whether the service provided is a material business activity.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = The service provided is a material business activity. 
+false = The service provided is not a material business activity.
+

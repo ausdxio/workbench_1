@@ -1,0 +1,20 @@
+# Auditor Appointment Membership  Association Of Taxation And Management Accountants Indicator
+
+## identifier
+de5734
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+Is the reporting party a member of the Association of Taxation and Management Accountants?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party is a member of the Association of Taxation and Management Accountants.
+FALSE = The reporting party is not a member of the Association of Taxation and Management Accountants.
+

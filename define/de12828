@@ -1,0 +1,21 @@
+# Financial Risk Adjustment Status Indicator
+
+## identifier
+de12828
+
+## status
+Standard
+
+## type
+undefined
+
+## definition
+This indicates whether the adjustment is approved by the Australian Prudential Regulation Authority for transitional purposes.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+true = The adjustment approved by the Australian Prudential Regulation Authority is transitional.
+
+false = The adjustment approved by the Australian Prudential Regulation Authority is not transitional.
+
