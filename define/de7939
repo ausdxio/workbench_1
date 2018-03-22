@@ -7,7 +7,7 @@ de7939
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report in years, calculated as at the relevant date, the exposure weighted average effective maturity (M) for on-balance sheet credit exposures.
@@ -19,7 +19,4 @@ Weighted average maturity = SIGMAi Mi x EADi / SIGMAi EADi
 Where:
 Mi = the maturity associated with the ith exposure in the group.
 EADi = the EAD associated with the ith exposure in the group.
-
-## guidance
-undefined
 

@@ -7,11 +7,8 @@ de8889
 Standard
 
 ## type
-undefined
+int
 
 ## definition
 This is the maximum term, expressed in months, of fixed interest investments. This refers to the maximum term of the instruments invested in by the First Home Saver Account (FHSA) provider, at any time during the relevant period.
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de4339
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 The value to be reported is the net market value, or fair value, of equity investments in unitised trusts, plus income accrued but not received in relation to these assets. This method of disclosure differs from the Australian Accounting Standards.
@@ -17,7 +17,4 @@ Equity investments or securities are, as defined by the Australian Accounting St
 Unitised trusts are a type of managed investment which issues units representing equal shares in the trust's investments. The value of the units fluctuates in line with the value, and income received from, the underlying investments.
 
 Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
-
-## guidance
-undefined
 

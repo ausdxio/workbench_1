@@ -7,7 +7,7 @@ de12846
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the reporting entity's holdings of its own capital instruments, unless exempted by APRA. Include:
@@ -16,7 +16,4 @@ This is the value, as at the relevant date, of the reporting entity's holdings o
 - instruments that the entity is obliged to purchase.
 
 This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
-
-## guidance
-undefined
 

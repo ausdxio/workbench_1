@@ -7,7 +7,7 @@ de12468
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of regulatory capital for credit risk that are associated with cash collateral provided by the reporting entity to collateralise its obligations under liquidity and other facilities, in accordance with the relevant prudential standards. 
@@ -27,7 +27,4 @@ Securitisation exposures are on-balance sheet and off-balance sheet risk positio
 (iv) exposures arising from swaps and other derivative transactions with an SPV.
 
 A resecuritisation exposure is a securitisation exposure in which the risk associated with an underlying pool of exposures is tranched and at least one of the underlying exposures is a securitisation exposure. In addition, an exposure to one or more resecuritisation exposures is a resecuritisation exposure.
-
-## guidance
-undefined
 

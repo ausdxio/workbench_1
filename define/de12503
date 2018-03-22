@@ -7,7 +7,7 @@ de12503
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is, as at the relevant date, the scaling factor for the stressed Value at Risk (VaR) applicable, for positions giving rise to market risk.
@@ -23,7 +23,4 @@ Equity positions include on and off-balance sheet exposures which are affected b
      - any other instruments that exhibit market behaviour similar to equities.
 
 Back-testing represents the process of comparing the daily trading outcome (profit or loss) with the corresponding stressed VaR number for that day.
-
-## guidance
-undefined
 

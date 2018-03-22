@@ -7,13 +7,10 @@ de8138
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the reporting party's interest rate risk in the banking book (IRRBB) capital requirement, as determined in accordance with relevant prudential standards. For the purposes of this item a floor of zero is applied.
 
 IRRBB capital requirement represents the regulatory capital that an entity is required to hold against its exposure to IRRBB in accordance with Prudential Standards.
-
-## guidance
-undefined
 

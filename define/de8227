@@ -7,7 +7,7 @@ de8227
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the market value, as at the relevant date, of bills of exchange that have been accepted or endorsed by the reporting party, plus the value of Loans and Advances net of specific prudential provisions for impairment.
@@ -21,7 +21,4 @@ Endorsement of a bill of exchange creates a contingent liability by the endorser
 Loans and advances are those financial assets categorised as "Loans and Receivables" in the accounting standards, other than "Trade Receivables" and "Cash".
 
 Market value is the amount that would be received on disposal of the asset in an orderly market.
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de7650
 Standard
 
 ## type
-undefined
+int
 
 ## definition
 This is a balancing item in the list in which it is being used.
@@ -20,7 +20,4 @@ This balancing item represents the number of all term loans other than those cla
 - Interest only loans;
 - Reverse loans; or
 - Low-documentation loans.
-
-## guidance
-undefined
 

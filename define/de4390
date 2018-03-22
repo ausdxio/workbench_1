@@ -7,7 +7,7 @@ de4390
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the value of gross policy liabilities ceded under outwards reinsurance.
@@ -17,7 +17,4 @@ This amount includes insurance liabilities, financial instrument liabilities and
 Reinsurance contracts as defined by the Australian Accounting Standards, are insurance contracts issued by one insurer (the reinsurer) to compensate another insurer (the cedent) for losses on one or more contracts issued by the cedent.
 
 Outwards Reinsurance that meets the definition of an insurance contract consists of both a Reinsured Best Estimate Liability and the Value of Reinsured Profit Margins.
-
-## guidance
-undefined
 

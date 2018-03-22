@@ -7,7 +7,7 @@ de13160
 Standard
 
 ## type
-undefined
+boolean
 
 ## definition
 This indicates whether the investment option is a default option. A default option represents an investment option under which the asset of the fund attributed to a new member is invested under the current governing rules of the fund if no direction were given.

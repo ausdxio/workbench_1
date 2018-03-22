@@ -7,7 +7,7 @@ de7807
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the past due amount (see below) of all revolving credit facilities.
@@ -17,7 +17,4 @@ The past due amount is calculated as:
 (2) if the facility is subject to a regular repayment schedule then it is the total amount of contractual payments that remain unpaid beyond their due dates.
           
 Revolving credit is a loan arrangement in which the borrowing party may repay funds on loan and immediately borrow it again up to an agreed limit.
-
-## guidance
-undefined
 

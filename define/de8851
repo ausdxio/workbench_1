@@ -7,7 +7,7 @@ de8851
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the sum of premiums liabilities net of any recoveries, determined in accordance with relevant prudential standards (Prudential Net Premium Liabilities) plus Net Premium Liabilities after adjustments for LAT sufficiency, determined in accordance with relevant accounting standards (Adjusted Accounting NPL) .
@@ -30,7 +30,4 @@ DR = Deferred Revenue which are any unearned revenues (other than UPL) that repr
 URL = Unexpired Risk Liability as determined in accordance with the relevant accounting standards.
 
 TPD = Technical Provision Deficiency recognised in premium liability valuations as a result of Liability Adequacy Test determined in accordance with relevant prudential standards.
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de4949
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the tax multiple `M' multiplied by the value of run-off expenses as determined in accordance with the management capital standard. The effect is to reduce the amount required to be reserved to reflect the after tax effect of the expenses on the reporting party.
@@ -20,7 +20,4 @@ a) in the case of expenses related to life insurance business, the run-off expen
 b) otherwise, the run-off expenses is total actual expenses less the variable expenses included in that amount.
 
 General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
-
-## guidance
-undefined
 

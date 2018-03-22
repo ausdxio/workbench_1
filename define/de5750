@@ -7,7 +7,7 @@ de5750
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the net of all other movements in debt securities other than acquisition and disposal transactions. This amount excludes those debt securities classified as securitised instruments.
@@ -19,7 +19,4 @@ A debt security is a transferable instrument evidencing a relationship of indebt
 Securitised instruments represent securities using specifically selected assets (eg. mortgages, receivables) to provide backing (collateral) for the securities and generate the payment streams necessary to fulfil interest and principal requirements for investors. These forms of securities are usually issued by a Special Purpose Vehicle (SPV).
 
 Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
-
-## guidance
-undefined
 

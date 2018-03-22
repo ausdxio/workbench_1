@@ -7,7 +7,7 @@ de8968
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the value, including interest and principal in arrears where appropriate, of those financial assets listed below:
@@ -27,7 +27,4 @@ Report the value, including interest and principal in arrears where appropriate,
 Borrowing and lending of securities and gold without cash collateral should not be reported.
 
 The reporting of negative positions is accepted in those cases where it is the result of the short selling of securities acquired in the context of repo or bond lending transactions.
-
-## guidance
-undefined
 

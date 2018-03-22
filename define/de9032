@@ -7,7 +7,7 @@ de9032
 Standard
 
 ## type
-undefined
+string
 
 ## definition
 If calls can be made on members and there is a contractual obligation to pay, report the basis used for determining the maximum call amount.

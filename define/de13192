@@ -7,11 +7,8 @@ de13192
 Standard
 
 ## type
-undefined
+int
 
 ## definition
 This is the number, as at the relevant date, of contracts underlying the exposure.
-
-## guidance
-undefined
 

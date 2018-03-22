@@ -7,7 +7,7 @@ de9007
 Standard
 
 ## type
-undefined
+boolean
 
 ## definition
 Indicate if the insurance contract pays out the claim, irrespective of whether the claim is within the protection wording of the cover offered to the member for all policies.

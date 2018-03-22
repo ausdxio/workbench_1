@@ -7,7 +7,7 @@ de5626
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This item is the balancing item in the list in which it appears.
@@ -27,7 +27,4 @@ Derivatives are generally defined as those instruments/contracts, where the valu
 The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
 
 Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
-
-## guidance
-undefined
 

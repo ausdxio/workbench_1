@@ -7,7 +7,7 @@ de4457
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the changes to the Experience Profit or Loss for the period in relation to Mortality, net of reinsurance.
@@ -17,7 +17,4 @@ The total Experience Profit or Loss is the profit or loss arising in the period 
 Mortality component is related to the likelihood of the death of policy owners.
 
 Best Estimate Assumptions are assumptions about future experience determined in accordance with relevant actuarial valuation standards.
-
-## guidance
-undefined
 

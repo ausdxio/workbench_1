@@ -7,7 +7,7 @@ de4172
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the changes to the Experience Profit or Loss for the period in relation to the surrender or early termination of a policy, i.e. where the policy is ended by either party prior to the maturity date.
@@ -15,7 +15,4 @@ Report the changes to the Experience Profit or Loss for the period in relation t
 The total Experience Profit or Loss is the profit or loss arising in the period from differences between the actual experience during the period and the expected experience on the basis of the Best Estimate Assumptions at the beginning of the period.
 
 Best Estimate Assumptions are assumptions about future experience determined in accordance with relevant actuarial valuation standards.
-
-## guidance
-undefined
 

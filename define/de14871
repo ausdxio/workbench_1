@@ -7,11 +7,8 @@ de14871
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 The balance sheet liability associated with initial margin received that cannot be included in calculating net stable funding ratio (NSFR) derivative assets.
-
-## guidance
-undefined
 

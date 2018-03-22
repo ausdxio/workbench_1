@@ -7,7 +7,7 @@ de7669
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of General Reserves, as determined in accordance with Prudential Standard APS 111.
@@ -23,7 +23,4 @@ All other reserves associated with share-based payments (refer to Australian acc
      (b) cumulative unrealised gains or losses on hedges that offset gains or losses on reserves included in Tier 1 capital (e.g. movements in the currency value of foreign-currency-denominated hedging instruments which offset movements in foreign-currency-denominated items recognised in the foreign currency translation reserve). This includes fair value gains or losses on derivatives representing effective economic hedges of assets.
 
 Exclude General Reserves for Credit Losses from this item.
-
-## guidance
-undefined
 

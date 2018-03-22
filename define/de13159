@@ -7,7 +7,7 @@ de13159
 Standard
 
 ## type
-undefined
+boolean
 
 ## definition
 This indicates whether an investment option is used to back defined benefit interests.

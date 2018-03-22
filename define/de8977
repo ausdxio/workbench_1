@@ -7,11 +7,8 @@ de8977
 Standard
 
 ## type
-undefined
+string
 
 ## definition
 Detail types of insurance (classes/risks/maximum sum insured) which are not automatically reinstated.
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de5090
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the amount of eligible capital determined in accordance with the solvency standard. This is calculated as the Net Assets of the reporting party as determined in accordance with accounting standards, including accrued income, adjusted for:
@@ -37,7 +37,4 @@ a) the lowest Termination Value that the reporting party is obliged to pay; and
 b) the amount calculated in accordance with the Surrender Value Standard.
 
 The investment linked (IL) risk margin reflecst the additional risks that may be borne by the reporting party in conducting investment-linked business.
-
-## guidance
-undefined
 

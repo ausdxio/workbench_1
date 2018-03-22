@@ -7,7 +7,7 @@ de8982
 Standard
 
 ## type
-undefined
+boolean
 
 ## definition
 Indicate if all insurances have a feature that reduces the deductible to nil when the underlying pool of funds (aggregate deductible) is exhausted.

@@ -7,7 +7,7 @@ de4299
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the total of all decreases to Contractual Regular Contributions due to claims or maturities during the period.
@@ -17,7 +17,4 @@ Decreases due to claims refer to the reduction in contractual regular contributi
 Decreases due to maturities refer to the cessation of contractual regular contributions due to the maturity of a policy, i.e. following the completion of a policy's term. This would occur when a member retires and is paid his/her superannuation benefit, a policy owner reaches a defined age on an Endowment policy or the termination of a savings plan on or after the contractual period
 
 Contractual Regular Contributions are the total gross premiums for the current relevant period that are accepted through direct debit, have a specific contractual requirement for future on-going premiums, have an expectation of renewal each year (e.g. Yearly Renewable term products) or generally cause a policy to discontinue on cessation of future payment.
-
-## guidance
-undefined
 

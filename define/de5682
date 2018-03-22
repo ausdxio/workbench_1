@@ -7,7 +7,7 @@ de5682
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the Capital Adequacy Liabilities (as determined in accordance with the assumptions of the Capital Adequacy standard), calculated as:
@@ -20,7 +20,4 @@ a) the amount that would be paid on the basis used in practice from time to time
 b) where no amount would be paid, the discounted present value of the unexpired risks, future payments and/or contractual premium refunds.
 
 Risk mitigation difference is the difference in the value of risk mitigation arrangements as per prudential standards and the value as reflected in the financial statements.
-
-## guidance
-undefined
 

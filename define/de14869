@@ -7,11 +7,8 @@ de14869
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 The value of all collateral posted in the form of variation margin in connection with derivative contracts, regardless of asset type.
-
-## guidance
-undefined
 

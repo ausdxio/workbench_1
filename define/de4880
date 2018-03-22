@@ -7,11 +7,8 @@ de4880
 Standard
 
 ## type
-undefined
+int
 
 ## definition
 The ID of the return the form belongs to.  It is assumed that the return id can be used to uniquely identify the package the return belongs to.
-
-## guidance
-undefined
 

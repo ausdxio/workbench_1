@@ -7,7 +7,7 @@ de5360
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Where projection techniques are used, report the net present value of Future Policy Benefits as at the relevant date, gross of reinsurance. For participating benefits, this includes past declared bonuses only. Current reporting period bonuses are excluded as per prudential standards. For non-participating benefits with an entitlement to Discretionary additions, the cost of the current year Discretionary Additions should be included.
@@ -15,7 +15,4 @@ Where projection techniques are used, report the net present value of Future Pol
 Where projection techniques are not used, report the policy liability as at the relevant date, gross of reinsurance, before deducting the value of unrecouped (deferred) acquisition expenses.
 
 These amounts include inwards reinsurance.
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de9056
 Standard
 
 ## type
-undefined
+boolean
 
 ## definition
 Indicate if all insurances are automatically reinstated after loss for all policies.

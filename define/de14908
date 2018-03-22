@@ -7,11 +7,8 @@ de14908
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the weighted average interest rate for variable-rate loans calculated as the average of the individual loans' contractual interest rates, weighted by the credit limit during the relevant period.
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de5246
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the solvency coverage ratio, calculated as Eligible Capital divided by Required Capital.
@@ -38,7 +38,4 @@ the amount of required capital determined in accordance with the solvency standa
 The net solvency requirement is the Total Solvency Requirement less Gross Policy Liabilities ceded under reinsurance. Total Solvency Requirement is the amount required under the solvency standard to ensure, as far as practicable, that, at any time, the financial position of each business unit of a reporting party is such that the reporting party will be able, out of the assets of the unit, to meet all policy and other liabilities referable to the unit at that time as they become due. Gross Policy Liabilities ceded under reinsurance are determined in accordance with the accounting standards.
 
 The adjusted liabilities are the total of the Minimum Termination Value (net of reinsurance and excluding the Investment Linked [IL] risk margin) and "Other Liabilities" (the total liabilities as determined in accordance with the relevant accounting standards other than Policy Liabilities, Approved Eligible Subordinated Debt and Seed Capital).
-
-## guidance
-undefined
 

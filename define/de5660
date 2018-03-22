@@ -7,7 +7,7 @@ de5660
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the tax multiple 'M' multiplied by the value of fixed acquisition expenses. The effect is to reduce the amount required to be reserved to reflect the after tax effect of the expenses on the reporting party.
@@ -16,7 +16,4 @@ The tax multiple 'M' is the net of tax multiple. This is based on a gross multip
 the extent that a tax deduction would reasonably be expected to be realised on ceasing new business.
 
 Fixed acquisition expenses, for this purpose, are to be determined as the total actual Acquisition Expenses for the reporting party for the 12 months prior to the valuation date less the variable expenses included in that amount.
-
-## guidance
-undefined
 

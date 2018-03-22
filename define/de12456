@@ -7,7 +7,7 @@ de12456
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the reporting date, of the principal amount, or drawn amount, of total funding and liquidity type facilities and derivatives. For the purpose of this item, report the notional principal amount of derivatives. 
@@ -19,7 +19,4 @@ This item represents the following:
       - derivatives entered into with securitisation programs; and
       - underwriting facilities provided to securitisation programs;
       - any other facilities provided to securitisation programs.
-
-## guidance
-undefined
 

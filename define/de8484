@@ -7,7 +7,7 @@ de8484
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value of net insurance claims expense recognised during the relevant period, but only of which relate to the current period.
@@ -32,7 +32,4 @@ Movements in claims costs for claims incurred in accident years before the curre
 Insurers issuing 'claims made' policies should classify as 'current' any claims reported in the financial year to date.
 
 Reinsurers that manage their business on an underwriting period basis (and so are unable to assess current accident period outcomes) should use a proxy approach to estimating current year incurred claims. Claims expense in the current financial year to date attributable to each of the current and immediately prior underwriting years should be adopted as the 'Current period net claims expense'. As with direct insurers, the 'Current period net claims expense' for reinsurers should be reported on an undiscounted basis with no risk margins, net of all recoverables and including claims handling expense. The 'Non-recurring items that are part of total net claims expense' is a balancing item such that in total they equal to the 'Net claims expense'.
-
-## guidance
-undefined
 

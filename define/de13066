@@ -7,11 +7,8 @@ de13066
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, for future policy expenses where projection techniques are used, report the net present value, where projection techniques are not used, report nil.
-
-## guidance
-undefined
 

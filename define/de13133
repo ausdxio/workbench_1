@@ -7,7 +7,7 @@ de13133
 Standard
 
 ## type
-undefined
+boolean
 
 ## definition
 This indicates whether a notifiable event has occurred during the relevant period.

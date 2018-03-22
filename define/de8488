@@ -7,7 +7,7 @@ de8488
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value of premium revenue earned during the relevant period according to where the risk is located. This item is to be determined in accordance with the relevant accounting standards. That is premium revenue shall be recognised from the attachment date as soon as there is a basis on which it can be reliably estimated over the period of the general insurance contract, in accordance with the pattern of the incidence of risk expected under the general insurance contract..
@@ -28,7 +28,4 @@ Where premium is accepted on a deposit basis, the full annual premium is to be b
 Premium revenue must be gross of reinsurance expense. 
 
 Premium revenue includes premium receivable on unclosed business. This includes the business which has been accepted by the insurer/reinsurer prior to the balance date but there is insufficient information to fully identify the business.
-
-## guidance
-undefined
 

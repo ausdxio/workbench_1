@@ -7,7 +7,7 @@ de8495
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of equity derivative contracts held, consistent with the classification and measurement basis used for derivatives by institutions in accordance with accounting standards. For the purposes of this item, derivative exposures for options is to be calculated on a delta-weighted basis.
@@ -22,7 +22,4 @@ The contracts can either be binding on both parties (e.g. as with a currency swa
 Delta-weighted position is calculated by multiplying the market value of the underlying position by the absolute value of the delta on that position. Delta represents the rate of change of an options price for a unit change in the price of the underlying asset.
 
 Report this item regardless of whether favourable or unfavourable to the reporting entity.
-
-## guidance
-undefined
 

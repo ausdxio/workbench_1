@@ -7,7 +7,7 @@ de7998
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is a balancing item in the list in which it is being used.
@@ -26,7 +26,4 @@ This item represents a 50/50 capital adequacy deduction, therefore only report 5
 This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
 
 A securitisation represents a structure (a special purpose vehicle, or SPV) where the cash flows from a pool (of assets, or interests in assets) is used to service obligations to creditors (typically holders of debt securities) who fund the SPV.
-
-## guidance
-undefined
 

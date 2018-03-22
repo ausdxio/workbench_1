@@ -7,7 +7,7 @@ de9023
 Standard
 
 ## type
-undefined
+boolean
 
 ## definition
 Indicate if products are sold under a Australian Financial Services License (AFSL).

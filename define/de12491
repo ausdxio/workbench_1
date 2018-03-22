@@ -7,7 +7,7 @@ de12491
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the stressed Value at Risk (VaR) calculated over the most recent 60 trading days prior to and including the relevant date, for positions giving rise to market risk.
@@ -19,7 +19,4 @@ Equity positions include both on and off-balance sheet exposures which are affec
      - any other instruments that exhibit market behaviour similar to equities.
 
 Stressed VaR, like VaR is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities, over a specified observation period. For the stressed VaR however, the model inputs are calibrated to historical data from a one year observation period of significant market stress relevant to the portfolio being simulated.
-
-## guidance
-undefined
 

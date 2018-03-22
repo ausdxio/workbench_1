@@ -7,11 +7,8 @@ de14892
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 The value of all collateral received in the form of variation margin in connection with derivative contracts that can be included in calculating net stable funding ratio (NSFR) derivative assets in accordance with Prudential Standard APS 210 - Liquidity, Attachment C.
-
-## guidance
-undefined
 

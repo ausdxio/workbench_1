@@ -7,7 +7,7 @@ de12506
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the scaling factor Stressed Value at Risk (VaR) applicable.
@@ -15,7 +15,4 @@ Report the scaling factor Stressed Value at Risk (VaR) applicable.
 The scaling factor (stressed VaR) consists of a multiplication factor and a plus factor, as determined in accordance with relevant prudential standards. The multiplication factor is set for each reporting party by APRA, and is subject to a minimum of three. A plus factor may also be required by APRA. This factor relates directly to back-testing results from the most recent 250 trading days prior to the relevant date.
 
 Back-testing represents the process of comparing the daily trading outcome (profit or loss) with the corresponding stressed VaR number for that day.
-
-## guidance
-undefined
 

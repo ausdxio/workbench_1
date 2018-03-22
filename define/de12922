@@ -7,7 +7,7 @@ de12922
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is a balancing in the list in which it is being used.
@@ -23,7 +23,4 @@ For the purposes of this item the OCL central estimate component is determined i
 OCL relates to all claims incurred prior to the valuation date, whether or not they have been reported to the insurer. The value of the OCL must include an amount in respect of the expenses that the insurer expects to incur in settling these claims. The value of OCL must not include any Government charges directly imposed on the insurer such as levies, duties and taxes, but must be gross of input tax credit recoveries.
 
 The central estimate will be measured as the present value of the future expected payments, i.e. discounted for future investment income, determined in accordance with relevant prudential standards. The central estimate is intended to reflect the mean value in the range of possible values for the outcome (that is, the mean of the distribution of probabilistic outcomes), and so does not include any risk margin.
-
-## guidance
-undefined
 

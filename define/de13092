@@ -7,7 +7,7 @@ de13092
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 The geographic longitude of a point on the earth is a measurement in degrees east or west of the Greenwich Meridian to a prescribed datum. Longitudes east of Greenwich are expressed as a positive number, west of Greenwich as negative.

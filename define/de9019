@@ -7,11 +7,8 @@ de9019
 Standard
 
 ## type
-undefined
+string
 
 ## definition
 This is the description of the methodology used to calculate the maximum call amount, if the basis was not "specified amount" or "percent of contribution".
-
-## guidance
-undefined
 

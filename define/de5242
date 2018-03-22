@@ -7,7 +7,7 @@ de5242
 Standard
 
 ## type
-undefined
+string
 
 ## definition
 Record the benefit fund type of the reporting entity.
@@ -22,7 +22,4 @@ An Accumulation Benefit Entity, or Defined Contribution Entity, is a fund where 
 A Defined Benefit Entity (all members defined benefits) is an entity where the formula for calculating the retirement benefit (and possibly other benefits also) is specified, usually in terms of years of service with the employer (or years of membership of the entity) and average salary level over the last few years prior to retirement. For example the formula may be that a member on retiring will receive 15 per cent of final average salary for each year of membership. The employer sponsor/contributor to a defined benefit entity carries the investment risk. 
 
 A Defined Benefit Entity (not all members defined benefits) represents a fund which consists of a combination of both Accumulation (Defined Contribution) and Defined Benefit members. This is sometimes referred to as a 'hybrid' fund.
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de8196
 Standard
 
 ## type
-undefined
+int
 
 ## definition
 This is the number of dwellings to be constructed, purchased or refinanced in relation to new lending commitments, or firm offers, in the form of revolving credit loans, provided by the reporting party during the relevant period, regardless of whether or not they have subsequently been withdrawn, or cancelled, during or after the period. New commitments will also include finance to employees, the provision of bridging finance, supplementary commitments (value only) where the original approval was not large enough, commitments to refinance existing loans where the original lender was not the reporting institution. Do not report commitments to refinance existing loans where there is no change in the security offered and the reporting institution was the original lender (e.g. refinance from a variable rate to a fixed rate loan).
@@ -22,7 +22,4 @@ A dwelling is a place of residence which is:
      - contained in a building which is an immobile structure;
      - private (i.e. not generally accessible to the public); and
      - self contained (i.e. includes bathing and cooking facilities).
-
-## guidance
-undefined
 

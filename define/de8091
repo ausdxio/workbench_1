@@ -7,7 +7,7 @@ de8091
 Standard
 
 ## type
-undefined
+int
 
 ## definition
 This is the number of back-testing exceptions calculated for the duration of the relevant period in relation to positions giving rise to commodities risk, as determined in accordance with relevant prudential standards.
@@ -25,7 +25,4 @@ For the purposes of this item, exceptions are reported where the trading outcome
 VaR, or Value at Risk, is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities over a specified observation period.
 
 For the purposes of this item the VaR used is to be the 99% ten-day VaR number calculated daily over the relevant period. A 99% ten-day VaR represents a simulated mark-to-market loss for which there is a 1% probability of occurrence over the next ten days, assuming there is no trading of the portfolio.
-
-## guidance
-undefined
 

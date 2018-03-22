@@ -7,7 +7,7 @@ de5444
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the Current Termination Value (CTV) of insurance policies as at the relevant date, as calculated by the relevant standard, net of reinsurance. 
@@ -15,7 +15,4 @@ Report the Current Termination Value (CTV) of insurance policies as at the relev
 The Current Termination Value of a policy is either:
 a) the amount that would be paid on the basis used in practice from time to time in the event of voluntary termination; or
 b) where no amount would be paid, the discounted present value of the unexpired risks, future payments and/or contractual premium refunds.
-
-## guidance
-undefined
 

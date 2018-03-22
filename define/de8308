@@ -7,7 +7,7 @@ de8308
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of assets other than equities; reinsurance assets; deferred acquisition cost and deferred reinsurance expense. 
@@ -27,7 +27,4 @@ For reinsurance written on a losses occurring basis, current reinsurance contrac
 It is expected that initially the full minimum and deposit premium would be recognised as an expense, with any necessary adjustments due to experience at subsequent relevant dates.
 
 Where payments under a reinsurance contract extend beyond the current year of cover, reinsurance expense is to be discounted using similar discount rates as required in measuring insurance liabilities in accordance with accounting standards.
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de8849
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the sum of the premiums liabilities gross of any recoveries determined in accordance with relevant prudential standards (Prudential Gross Premiums Liabilities) plus gross premiums liabilities determined in accordance with relevant accounting standards (Accounting Gross Premiums Liabilities).
@@ -24,7 +24,4 @@ Accounting Gross Premiums Liabilities are calculated as UPL - DAC, where:
 UPL = Unearned Premium Liability as determined in accordance with the relevant accounting standards.
                                                                                                                                           
 DAC = Deferred Acquisition Costs as determined in accordance with the relevant accounting standards.
-
-## guidance
-undefined
 

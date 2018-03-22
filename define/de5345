@@ -7,7 +7,7 @@ de5345
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the value of the Prescribed Yield Adjustment in relation to admissible loan assets with resilience requirement, as per the capital adequacy standard.
@@ -23,7 +23,4 @@ c) non-realisable (in the context of the capital adequacy tests) intangible asse
 d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
 e) reinsurance assets which may not be fully recoverable in the context of the capital adequacy tests; and
 f) amounts by which the recorded value of an asset exceeds its net realisable value.
-
-## guidance
-undefined
 

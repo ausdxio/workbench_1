@@ -7,7 +7,7 @@ de2488
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, during the relevant period, for  fees paid/payable to asset consultants engaged by the trustees, in relation to the management of the superannuation entity's investment portfolios. Include fees paid to independent third parties as well as related entities of the superannuation entity.
@@ -19,7 +19,4 @@ Do not include expenses of an administrative or operating nature.
 Important:
 Do not net fee related income rebates off against investment expenses.
 Commissions or deductions should be shown on a gross basis here. For example, where there is a separately identifiable charge to the entity, fees charged by the asset consultants should not be netted against investment income.
-
-## guidance
-undefined
 

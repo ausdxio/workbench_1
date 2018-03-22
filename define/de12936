@@ -7,7 +7,7 @@ de12936
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the sum of net premiums liabilities as determined in accordance with relevant accounting standards plus the value of the deficiency recognised in premium liability valuations due to the application of Liability Adequacy Test (LAT) as determined in accordance with relevant prudential standards.
@@ -23,7 +23,4 @@ DRE = Deferred Reinsurance Expense as determined in accordance with the relevant
 URL = Unexpired Risk Liability as determined in accordance with the relevant accounting standards.
 
 Other items include anything else required under the relevant accounting standards to be included in the calculation of Net Premium Liabilities.
-
-## guidance
-undefined
 

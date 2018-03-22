@@ -7,7 +7,7 @@ de8550
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the premiums liabilities net of any recoveries, determined in accordance with relevant prudential standards.
@@ -17,7 +17,4 @@ Premiums liabilities relate to all future claim payments arising from future eve
 The value of premiums liabilities must not include any Government charges directly imposed on the insurer such as levies, duties and taxes, and must be net of input tax credit recoveries. Also a deferred acquisition cost asset must not be reported.
 
 The premium liabilities will be measured as the present value of the future expected payments, i.e. discounted for future investment income, plus a risk margin determined in accordance with relevant prudential standards.   The risk margin must be assessed at the level specified by APRA for capital purposes; this may not be the same risk margin used for other purposes.
-
-## guidance
-undefined
 

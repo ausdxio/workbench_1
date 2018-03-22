@@ -7,7 +7,7 @@ de8848
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of net premiums liabilities net of any adjustments, calculated as TPD + UPL - DE + DR + URL where:
@@ -21,7 +21,4 @@ DE = Deferred Expenses which are any capitalised costs relating to the unearned 
 DR = Deferred Revenue which are any unearned revenues (other than UPL) that represent income used to meet the costs of future claims that will arise under current general insurance contracts that have been deferred in accordance with the relevant accounting standards. This includes deferred reinsurance exchange commission and unearned commission revenue.
                                                                                                                         
 URL = Unexpired Risk Liability as determined in accordance with the relevant accounting standards.
-
-## guidance
-undefined
 

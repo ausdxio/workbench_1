@@ -7,7 +7,7 @@ de8223
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the following specific items:
@@ -29,7 +29,4 @@ Funded Loans are all loans and advances for which the interest rate is set by re
 The effective interest rate used should equate to the annual cost to the customer of a bill. It should comprise the bill discount rate expressed as annual rate, plus all fees - other than establishment fees - charged for providing the facility, also expressed as an annual percentage of the bills' face value. Where the discount rate on a bill is not known, an estimate based on prevailing market rates should be used. Bill fees include acceptance or endorsement fees, facility fees, line fees, activation fees, usage fees, rollover fees and handling fees.
                                                                                                                                                    
 Market value is the value that would be realised by disposal of the asset in an orderly market.
-
-## guidance
-undefined
 

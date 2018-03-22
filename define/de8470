@@ -7,7 +7,7 @@ de8470
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is a balancing item in the list in which it is being used.
@@ -29,7 +29,4 @@ Derivatives are generally defined as those instruments/contracts, where the valu
 The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
 
 Report this item regardless of whether favourable or unfavourable to the reporting entity.
-
-## guidance
-undefined
 

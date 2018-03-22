@@ -7,7 +7,7 @@ de5186
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the Prudential Capital requirement, being the greater of the Management Capital Reserve and the Prescribed Minimum Capital Amount as per Prudential Standards.
@@ -19,7 +19,4 @@ The total Management Capital Requirement is the value of the minimum capital req
 The total liabilities are the net market value, or fair value, of liabilities including deferred acquisition costs arising in respect of policies. This method of disclosure differs from the Australian Accounting Standards.
 
 General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
-
-## guidance
-undefined
 

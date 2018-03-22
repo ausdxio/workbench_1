@@ -7,7 +7,7 @@ de4154
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the value of gross policy liabilities assumed under reinsurance, valued in accordance with prudential standards LPS 1.04, Valuation of Policy Liabilities. 
@@ -17,7 +17,4 @@ This amount includes liabilities for deferred fee revenue and deferred acquisiti
 Fees are defined as amounts of money paid for a particular piece of work or for a particular right or service (i.e. policy management fees).
 
 Reinsurance contracts as defined by the Australian Accounting Standards, are insurance contracts issued by one insurer (the reinsurer) to compensate another insurer (the cedent) for losses on one or more contracts issued by the cedent.
-
-## guidance
-undefined
 

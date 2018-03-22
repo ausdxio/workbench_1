@@ -7,7 +7,7 @@ de7518
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, during the relevant period, of the net realised gains and losses in relation to the disposal of derivatives during the relevant period.
@@ -18,7 +18,4 @@ Derivatives are generally defined as those instruments/contracts, where the valu
 The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
 
 This item excludes foreign exchange gains (losses) from currency conversions of derivatives.
-
-## guidance
-undefined
 

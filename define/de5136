@@ -7,7 +7,7 @@ de5136
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the adjusted value of the liability component less the value of effective borrowings and tax liabilities.
@@ -15,7 +15,4 @@ Report the adjusted value of the liability component less the value of effective
 The Liability Component is determined as the realistic value of liabilities of the General Fund plus, in the case of a friendly society, the reserve in respect of servicing expenses and investment-linked business.
 
 The adjustment is for the prescribed yield change in the discount rate used in their valuation, in accordance with the solvency standard.
-
-## guidance
-undefined
 

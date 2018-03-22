@@ -7,7 +7,7 @@ de8577
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, during the relevant period, of realised gains (losses) on equity securities, including gains (losses) from subordinated debt.
@@ -19,7 +19,4 @@ Equity investments or securities are contracts that evidence a residual interest
 Subordinated debt is a debt where the claim to repayment ranks lower in priority to other claims.
 
 Gains (losses) are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant period, then any increases or decreases in the fair value of the asset are recognised as unrealised gains (losses).
-
-## guidance
-undefined
 

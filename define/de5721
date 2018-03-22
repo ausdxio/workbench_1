@@ -7,7 +7,7 @@ de5721
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the Credit Risk component of Capital Adequacy Resilience Reserve (RRCR), to be calculated as:
@@ -40,7 +40,4 @@ e) reinsurance assets which may not be fully recoverable in the context of the c
 f) amounts by which the recorded value of an asset exceeds its net realisable value.
 
 The Capital Adequacy Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment ( as per the capital adequacy standard), such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund in an ongoing business context.
-
-## guidance
-undefined
 

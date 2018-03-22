@@ -7,7 +7,7 @@ de8862
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the value of insurance premium invoiced during the reporting period. 
@@ -18,7 +18,4 @@ For the purposes of this item, premium is:
      - exclusive of charges payable such as survey and underwriting fees;
      - inclusive of commissions payable; and
      - inclusive of non-resident withholding tax.
-
-## guidance
-undefined
 

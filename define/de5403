@@ -7,13 +7,10 @@ de5403
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the Capital Adequacy Margin applied to the base best estimate assumptions for Annuitants, as per the capital adequacy standard. The margin must be applied so as to produce a more conservative estimate of the liability than best estimate.
 
 Annuitant refers to a person who pays a single premium, and in return, receives regular payments for the remainder of the annuitants life, or for a defined term. An annuity may be payable to more than one person e.g. it may provide for reversionary payments, at a reduced rate, to the surviving souse of the original annuitant.
-
-## guidance
-undefined
 

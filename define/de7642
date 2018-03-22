@@ -7,7 +7,7 @@ de7642
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is a balancing item in the list in which it is being used.
@@ -19,7 +19,4 @@ This balancing item represents all term loans other than those classified as any
 - Interest only loans;
 - Reverse loans; or
 - Low-documentation loans.
-
-## guidance
-undefined
 

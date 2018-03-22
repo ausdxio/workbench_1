@@ -7,7 +7,7 @@ de8015
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is, as at the relevant date, the principal amount, or drawn amount, of total funding and liquidity type facilities and swaps. For the purpose of this item, report the credit equivalent amount of swaps. 
@@ -20,7 +20,4 @@ This item represents the following:
       - credit enhancements  provided to securitisation programs;
       - swaps entered into with securitisation programs; and
       - any other facilities provided to securitisation programs.
-
-## guidance
-undefined
 

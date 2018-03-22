@@ -7,7 +7,7 @@ de12443
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of an interest rate swap aimed at limiting basis risk as per relevant prudential standard.  
@@ -21,7 +21,4 @@ The contracts can either be binding on both parties (e.g. as with a currency swa
 
 Report this item regardless of whether favourable or unfavourable to the reporting entity.
 
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de12867
 Standard
 
 ## type
-undefined
+boolean
 
 ## definition
 This indicates whether the reporting entity has applied the eligible credit support to calculate the asset concentration risk charge, where the exposure is covered by an eligible collateral, guarantee, or letter of credit.

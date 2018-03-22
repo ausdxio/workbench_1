@@ -7,7 +7,7 @@ de5194
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the value of the Net Policy Liabilities (net of reinsurance) less the Net Minimum Termination Value (MTV).
@@ -21,7 +21,4 @@ a) the lowest Termination Value that the reporting party is obliged to pay; and
 b) the amount calculated in accordance with the Surrender Value Standard.
 
 The investment linked (IL) risk margin reflects the additional risks that may be borne by the reporting party in conducting investment-linked business.
-
-## guidance
-undefined
 

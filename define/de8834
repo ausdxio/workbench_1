@@ -7,7 +7,7 @@ de8834
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of allowable reinsurance on the Probable Maximum Loss (PML) for the reporting party, as determined in accordance with relevant Prudential Standards.
@@ -15,7 +15,4 @@ This is the value, as at the relevant date, of allowable reinsurance on the Prob
 This represents the lesser of available reinsurance and 60 per cent of the adjusted PML.
 
 Probable Maximum Loss (PML) is the largest gross loss to which an insurer will be exposed (within the realms of possibility) due to a concentration of risk exposures, without any allowance for potential reinsurance assets.
-
-## guidance
-undefined
 

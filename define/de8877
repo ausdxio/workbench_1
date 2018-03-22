@@ -7,13 +7,10 @@ de8877
 Standard
 
 ## type
-undefined
+int
 
 ## definition
 This is the number of First Home Saver Accounts (FHSAs), closed as a result of FHSA business being transferred to another FHSA provider in accordance with the FHSA Act. 
 
 This is where accounts are transferred because a provider ceases to exist or ceases to offer FHSA accounts.
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de8675
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the principal value, gross of provisions for impairment and including accrued interest, of assets that have been sold to or originated into securitisation programs, by or on behalf of the reporting party, or by a third party to a securitisation program sponsored by the reporting party, as at the relevant date.
@@ -19,7 +19,4 @@ A securitisation warehouse represents a structure that accumulates exposures unt
 A securitisation program represents a structure (a special purpose vehicle, or SPV) where the cash flows from a pool (of assets, or interests in assets) are used to service obligations to creditors (typically holders of debt securities) who fund the SPV.
 
 A SPV is a "bankruptcy-remote entity" with operations limited to the acquisition and financing of specific assets. Usually a subsidiary entity with balance sheet and legal status that makes its obligations secure even if the parent company goes bankrupt.
-
-## guidance
-undefined
 

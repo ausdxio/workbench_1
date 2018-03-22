@@ -7,7 +7,7 @@ de5742
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the value of the Adverse Exchange Movement Adjustment in relation to the admissible value of tax assets with a resilience requirement, as per the capital adequacy standard.
@@ -17,7 +17,4 @@ The Adverse Exchange Movement Adjustment is an addition to the resilience reserv
 The admissible value of tax assets is the value as determined in accordance with the accounting standards less the value of those deemed to be inadmissible, as per the capital adequacy standard. 
 
 The inadmissible assets are those tax assets dependent on the ongoing conduct of business, for example tax losses that require future taxable income in order to be realised.
-
-## guidance
-undefined
 

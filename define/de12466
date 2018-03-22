@@ -7,7 +7,7 @@ de12466
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the outstanding principal amount, gross of provisions form impairment and including accrued interest of securitised assets and assets involved in fundraising arrangements.
@@ -21,7 +21,4 @@ A securitisation program represents a structure (a special purpose vehicle, or S
 A SPV is a 'bankruptcy-remote entity' with operations limited to the acquisition and financing of specific assets. Usually a subsidiary entity with balance sheet and legal status that makes its obligations secure even if the parent company goes bankrupt."
 
 Assets involved in fundraising arrangements are the value of collateral which provides an interest in or over assets of the ADI to the funding provider.
-
-## guidance
-undefined
 

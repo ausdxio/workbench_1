@@ -7,7 +7,7 @@ de8850
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the sum of the premiums liabilities net of any recoveries determined in accordance with relevant prudential standards (Prudential Net Premiums Liabilities) plus Net Premiums Liabilities determined in accordance with relevant accounting standards (Accounting Net Premiums Liabilities).
@@ -30,7 +30,4 @@ DRE = Deferred Reinsurance Expense as determined in accordance with the relevant
 URL = Unexpired Risk Liability as determined in accordance with the relevant accounting standards.
 
 Other items include anything else required under the relevant accounting standards to be included in the calculation of Net Premium Liabilities.
-
-## guidance
-undefined
 

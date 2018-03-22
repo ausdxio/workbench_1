@@ -7,7 +7,7 @@ de8840
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the risk charge calculated as A+B, where:
@@ -17,7 +17,4 @@ A = The risk charge calculated on future net premium income in relation to insur
 B =  The risk charge calculated on premiums liabilities net of any recoveries, 
 
 Both items are to be determined in accordance with relevant prudential standards.
-
-## guidance
-undefined
 

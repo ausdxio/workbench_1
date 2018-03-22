@@ -7,7 +7,7 @@ de7616
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of "Total Other Investments" as per item 8.6 on form ARF_322_0.
@@ -18,7 +18,4 @@ This amount is calculated as the sum of the following items:
 - Interests in Joint Ventures;
 - Equity Investments in Former SSP's; and
 - Other Investments not allocated elsewhere on ARF_322_0 (balancing item).
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de5711
 Standard
 
 ## type
-undefined
+string
 
 ## definition
 Report, where indirect holdings of receivable exposures to a counterparty exist, the details of the direct holding through which these indirect holdings are held.
@@ -15,7 +15,4 @@ Report, where indirect holdings of receivable exposures to a counterparty exist,
 This information should detail the name(s) of the counterparties through which indirect holdings of the reporting party are held.
 
 An exposure to a counterparty, or a group of related counterparties, is the aggregate of all claims, commitments and contingent liabilities arising from on- and off-balance sheet transactions with the counterparty or group of related counterparties.
-
-## guidance
-undefined
 

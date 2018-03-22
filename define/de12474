@@ -7,7 +7,7 @@ de12474
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of short  positions in nth-to-default credit derivatives, calculated in accordance to the relevant prudential standards.
@@ -15,7 +15,4 @@ This is the value, as at the relevant date, of short  positions in nth-to-defaul
 An nth-to-default credit derivative is a contract where the payoff is based on the nth asset to default in a basket of underlying reference instruments. Once the nth default occurs the transaction terminates and is settled.
 
 Short positions represent positions where a fall in the value of the asset or derivative would result in a profit.
-
-## guidance
-undefined
 

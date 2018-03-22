@@ -7,13 +7,10 @@ de8188
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the total committed amount, or limit, of credit enhancements first provided by the reporting party during the relevant period.
      
 Credit enhancements represent arrangements in which the provider holds a securitisation exposure that is able to absorb losses in the pool and thereby provides credit protection to investors or other parties to the securitisation. A first loss credit enhancement is available to absorb losses in the first instance. A second loss credit enhancement is available to absorb losses after significant first loss credit enhancements have been exhausted.
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de5273
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the inadmissible value of non indexed interest bearing securities as per the solvency standard.  
@@ -20,7 +20,4 @@ The inadmissible assets are:
 a) holdings in an associated or subsidiary entity which is a Financial Services entity;
 b) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing; and 
 c) amounts by which the recorded value of an asset exceeds its net realisable value.
-
-## guidance
-undefined
 

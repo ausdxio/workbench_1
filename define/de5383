@@ -7,7 +7,7 @@ de5383
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the ratio of the capital adequacy reserve to the sum of the termination value (as per the capital adequacy standard) and other liabilities.
@@ -26,7 +26,4 @@ a) the lowest Termination Value that the reporting party is obliged to pay; and
 b) the amount calculated in accordance with the Surrender Value Standard.
 
 The investment linked (IL) risk margin reflects the additional risks that may be borne by the reporting party in conducting investment-linked business.
-
-## guidance
-undefined
 

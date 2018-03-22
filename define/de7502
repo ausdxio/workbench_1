@@ -7,7 +7,7 @@ de7502
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is a balancing item in the list in which it is being used.
@@ -15,7 +15,4 @@ This is a balancing item in the list in which it is being used.
 This is the value of other occupancy and equipment expenses, as required to be reported on APRA form ARF_330_3.
 
 This item represents occupancy and equipment expenses other than depreciation, as determined in accordance with accounting standards.
-
-## guidance
-undefined
 

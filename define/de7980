@@ -7,13 +7,10 @@ de7980
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of credit exposures (on and off-balance sheet) arising from the following:
 - the most senior exposure in a securitisation (e.g. the most senior tranche of securities issued by the SPV or an obligation under a facility that ranks ahead of the first tranche);
 - asset-backed commercial paper securitisation (i.e. where the securities issued are predominantly commercial paper with an original maturity of one year or less) exposures in a second loss, or better, position.
-
-## guidance
-undefined
 

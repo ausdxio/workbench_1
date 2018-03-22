@@ -7,7 +7,7 @@ de9051
 Standard
 
 ## type
-undefined
+boolean
 
 ## definition
 Indicate if calls can be made on members and there is a contractual obligation to pay.

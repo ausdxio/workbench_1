@@ -7,7 +7,7 @@ de7796
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is a balancing item in the list in which it is being used.
@@ -15,7 +15,4 @@ This is a balancing item in the list in which it is being used.
 This is the value, as at the relevant date, of all Lower Tier 2 capital instruments, other than those classified as term subordinated debt or limited life redeemable preference shares, as required to be reported in the APRA ARF_110_0 form series. Only report the amount that is eligible for inclusion at this item. This is calculated based on each instruments residual term to maturity.
 
 This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
-
-## guidance
-undefined
 

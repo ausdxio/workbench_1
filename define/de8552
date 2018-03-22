@@ -7,11 +7,8 @@ de8552
 Standard
 
 ## type
-undefined
+int
 
 ## definition
 This is the accumulated number of insurance claims reported, as at the relevant date.
-
-## guidance
-undefined
 

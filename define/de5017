@@ -7,7 +7,7 @@ de5017
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the Management Capital Reserve Ratio calculated as:
@@ -20,7 +20,4 @@ MCR = the Management Capital Reserve determined in accordance with the managemen
 The total Management Capital Requirement is the value of the minimum capital requirement determined in accordance with the management capital prudential standard and held outside the statutory funds to ensure that under a range of adverse operating circumstances the company would be expected to be in a position to meet its trading commitments and adequately service its policy owners.
 
 General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
-
-## guidance
-undefined
 

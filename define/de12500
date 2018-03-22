@@ -7,7 +7,7 @@ de12500
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of long  positions in nth-to-default credit derivatives, calculated in accordance to the relevant prudential standards.
@@ -16,7 +16,4 @@ An nth-to-default credit derivative is a contract where the payoff is based on t
 
 Long positions represent positions where a rise in the value of the asset or derivative would result in a profit.
 
-
-## guidance
-undefined
 

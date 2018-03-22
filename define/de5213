@@ -7,7 +7,7 @@ de5213
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the face value, or gross amount, of foreign exchange and gold derivative contracts held by the reporting party, as at the relevant date. The value of this item is to be determined in accordance with accounting standards.
@@ -24,7 +24,4 @@ The contracts can either be binding on both parties (e.g. as with a currency swa
 Report this item regardless of whether favourable or unfavourable to the reporting entity ie where it represents either a net gain or net loss to the entity across all open positions.
 
 The principal amount must be reported as a positive value, even for short positions in derivative financial instruments.
-
-## guidance
-undefined
 

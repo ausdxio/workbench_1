@@ -7,7 +7,7 @@ de5770
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the amount of the asset that is inadmissible for management capital purposes. These are: 
@@ -18,7 +18,4 @@ d) other assets not measured at fair value in the regulatory financial statement
 e) the alignment necessary to ensure the remaining assets and the other liabilities are based on net market value.
 
 Assets used in the conduct of business is determined as the amount by which the stated value of the asset in the financial statements exceeds the value the asset would have in a run-off or transfer situation.
-
-## guidance
-undefined
 

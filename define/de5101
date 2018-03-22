@@ -7,7 +7,7 @@ de5101
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the inadmissible value of Cash and Liquid Assets as per the solvency standard. 
@@ -15,7 +15,4 @@ Report the inadmissible value of Cash and Liquid Assets as per the solvency stan
 The inadmissible cash assets are:
 a) those cash holdings with too little diversification, or have too great an exposure to one obligor of low credit standing; and
 b) holdings in an associated or subsidiary entity which is a Financial Services entity.
-
-## guidance
-undefined
 

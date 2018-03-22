@@ -7,7 +7,7 @@ de12488
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the stressed value at risk (VaR), calculated as at the relevant date, for positions giving rise to foreign exchange risk, as determined in accordance with relevant prudential standards.
@@ -23,7 +23,4 @@ For the purposes of this item:
 - exclude structural positions where permitted by the relevant prudential standards.
 
 Stressed VaR, like VaR is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities, over a specified observation period. For the stressed VaR however, the model inputs are calibrated to historical data from a one year observation period of significant market stress relevant to the portfolio being simulated.
-
-## guidance
-undefined
 

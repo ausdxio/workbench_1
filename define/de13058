@@ -7,11 +7,8 @@ de13058
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, for unfunded default fund contribution with this central counterparty. This equates to the clearing member's proportionate liability for default fund calls (i.e. unfunded default fund commitment). It is calculated in accordance with the relevant prudential standard.
-
-## guidance
-undefined
 

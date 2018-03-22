@@ -7,7 +7,7 @@ de5074
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the amount of investment linked (IL) risk margin included in the minimum termination value (MTV).  This risk margin reflects the additional risks that may be borne by the reporting party in conducting investment-linked business.
@@ -15,7 +15,4 @@ Report the amount of investment linked (IL) risk margin included in the minimum 
 MTV is the amount that a life insurer is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
 a) the lowest Termination Value that the reporting party is obliged to pay; and 
 b) the amount calculated in accordance with the Surrender Value Standard.
-
-## guidance
-undefined
 

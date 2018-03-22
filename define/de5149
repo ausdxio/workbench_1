@@ -7,7 +7,7 @@ de5149
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the approved balance of standby facilities that can be drawn down (funds accessed) five days after notice is given by the reporting party of its intention to draw down on the standby facility (i.e. a five day waiting period).
@@ -17,7 +17,4 @@ In reporting this item the reporting party is to follow the basis that is used f
 A formal standby facility or credit line is a formalised arrangement in which the counterparty has the right but not the obligation to draw down funds to a specified limit.
 
 The approved balance of a facility is the maximum approved amount that can be drawn down in relation to that facility.
-
-## guidance
-undefined
 

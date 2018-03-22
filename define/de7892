@@ -7,7 +7,7 @@ de7892
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of forward equity contracts, consistent with the classification and measurement basis used for derivatives by institutions in accordance with accounting standards.
@@ -22,7 +22,4 @@ Derivatives are generally defined as those instruments/contracts, where the valu
 The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
 
 Report this item regardless of whether favourable or unfavourable to the reporting entity.
-
-## guidance
-undefined
 

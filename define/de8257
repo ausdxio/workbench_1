@@ -7,7 +7,7 @@ de8257
 Standard
 
 ## type
-undefined
+boolean
 
 ## definition
 If the service channel type does not meet the definition of a 'branch', 'Other Face To Face' or 'Electronic' as described below as at the relevant date, then report "Y".

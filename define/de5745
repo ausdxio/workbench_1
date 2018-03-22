@@ -7,7 +7,7 @@ de5745
 Standard
 
 ## type
-undefined
+string
 
 ## definition
 Report the description of other exposures, as required to be reported on APRA forms SRF_120_0, SRF_220_0 and SRF_320_0.
@@ -26,7 +26,4 @@ An exposure represents a claim or commitment of an entity, recorded both on and 
 (b) Asset exposures that are not in the nature of a credit exposure (e.g. a direct property investment); and
 (c) Exposures in the nature of a liability or obligation to a single party or group of related parties.
 An off-balance sheet exposure refers to an item that is not recognised in the statement of financial position, such as contingent assets and liabilities.
-
-## guidance
-undefined
 

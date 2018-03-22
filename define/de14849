@@ -7,7 +7,7 @@ de14849
 Standard
 
 ## type
-undefined
+int
 
 ## definition
 The number of business entities for which an instance of farm debt mediation has been initiated.

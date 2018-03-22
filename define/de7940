@@ -7,7 +7,7 @@ de7940
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is, as at the relevant date, the exposure weighted average firm size of on-balance sheet credit exposures.
@@ -19,7 +19,4 @@ Weighted average firm size = SIGMAi Salesi x EADi / SIGMAi EADi
 Where:
 Salesi = the level of annual sales associated with the ith exposure.
 EADi = the exposure at default(EAD) associated with the ith exposure.
-
-## guidance
-undefined
 

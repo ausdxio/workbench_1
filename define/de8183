@@ -7,7 +7,7 @@ de8183
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value of new lending commitments, or firm offers, provided by the reporting party during the relevant period, regardless of whether or not they have subsequently been withdrawn, or cancelled, during or after the period. New commitments will also include finance to employees, the provision of bridging finance, supplementary commitments (value only) where the original approval was not large enough, commitments to refinance existing loans where the original lender was not the reporting institution. Do not report commitments to refinance existing loans where there is no change in the security offered and the reporting institution was the original lender (e.g. refinance from a variable rate to a fixed rate loan).
@@ -15,7 +15,4 @@ This is the value of new lending commitments, or firm offers, provided by the re
 A commitment is a firm offer to provide finance which has been accepted by the client. A commitment exists once the loan application has been approved, and a loan contract or letter of offer has been issued to the borrower. 
 
 With transactions involving a change of residence, you should treat the discharge of the existing loan and the commitment to a new loan as separate events, and report the total value of the new loan as a new commitment.
-
-## guidance
-undefined
 

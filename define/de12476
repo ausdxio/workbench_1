@@ -7,13 +7,10 @@ de12476
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the Stressed Value at Risk (VaR) that would be generated if the market factors with the greatest influence on trading losses were experiencing a period of stress.   
 
 Stressed VaR, like VaR is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities, over a specified observation period. For the stressed VaR however, the model inputs are calibrated to historical data from a one year observation period of significant market stress relevant to the portfolio being simulated.
-
-## guidance
-undefined
 

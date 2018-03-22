@@ -7,7 +7,7 @@ de7852
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of gold bullion held in the reporting party's own vault or on an allocated basis by another party to the extent that it is backed by gold bullion liabilities.
@@ -17,7 +17,4 @@ This item includes all claims collateralised by gold to the extent that the unde
 This item excludes gold held in safe custody for other institutions, and gold held on an unallocated basis by another party, although backed by gold bullion liabilities.
 
 Gold bullion liabilities include, gold borrowings, gold futures and forward sales of gold.
-
-## guidance
-undefined
 

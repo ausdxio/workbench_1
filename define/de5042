@@ -7,7 +7,7 @@ de5042
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the total value of terminal and interim bonuses paid during the relevant period. 
@@ -17,7 +17,4 @@ A bonus is an amount of profit added at the discretion of the reporting party (i
 Terminal bonus is an additional payment to exiting policy owners beyond reversionary (and interim) bonus.
 
 An interim bonus is a payment to exiting policy owners in lieu of the reversionary bonus that would have attached to their policies had they remained in force to the relevant date.
-
-## guidance
-undefined
 

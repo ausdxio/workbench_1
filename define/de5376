@@ -7,7 +7,7 @@ de5376
 Standard
 
 ## type
-undefined
+string
 
 ## definition
 If the trustee of the reporting party has been subject to a review by either the Australian Taxation Office (ATO) or the Australian Securities and Investments Commission (ASIC) during the relevant period, report the date of the review.
@@ -15,7 +15,4 @@ If the trustee of the reporting party has been subject to a review by either the
 Where there have been multiple reviews or requests for information during the relevant period by either the ATO or ASIC, report the date of the last (i.e. most recent) meeting or request for information.
      
 A 'review' will normally involve, at a minimum, a formal written request for information from the regulator and may involve meeting with the regulator.
-
-## guidance
-undefined
 

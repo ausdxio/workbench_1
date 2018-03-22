@@ -7,7 +7,7 @@ de7800
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of net, or eligible, Lower Tier 2 capital.
@@ -15,7 +15,4 @@ This is the value, as at the relevant date, of net, or eligible, Lower Tier 2 ca
 Net, or eligible, Lower Tier 2 capital represents gross Lower Tier 2 capital, net of Lower Tier 2 capital deductions and any other adjustments to Lower Tier 2 capital approved by APRA.
 
 This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
-
-## guidance
-undefined
 

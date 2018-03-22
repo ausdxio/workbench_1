@@ -7,11 +7,8 @@ de5480
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the Capital Adequacy Margin applied to the best estimate assumptions of options, as per the capital adequacy standard. The margin must be applied so as to produce a more conservative estimate of the liability than best estimate.
-
-## guidance
-undefined
 

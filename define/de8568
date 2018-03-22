@@ -7,7 +7,7 @@ de8568
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value of gross written insurance premium revenue recognised during the relevant period, and which is related to unclosed business.
@@ -15,7 +15,4 @@ This is the value of gross written insurance premium revenue recognised during t
 Unclosed business is that which has been accepted by the insurer/reinsurer prior to the balance date but there is insufficient information to fully identify the business.
 
 This item excludes any fire service levy or other levies imposed by state and territory governments and is gross of any associated outwards reinsurance expense.
-
-## guidance
-undefined
 

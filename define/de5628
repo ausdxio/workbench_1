@@ -7,7 +7,7 @@ de5628
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the minimum termination value (net of reinsurance) excluding the amount of any investment linked risk margin.
@@ -17,7 +17,4 @@ a) the lowest Termination Value that the reporting party is obliged to pay; and
 b) the amount calculated in accordance with the Surrender Value Standard.
 
 The investment linked (IL) risk margin reflects the additional risks that may be borne by the reporting party in conducting investment-linked business.
-
-## guidance
-undefined
 

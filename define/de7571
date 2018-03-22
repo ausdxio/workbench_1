@@ -7,7 +7,7 @@ de7571
 Standard
 
 ## type
-undefined
+int
 
 ## definition
 This is the number of persons working for the reporting party during the last pay period in the relevant period
@@ -24,7 +24,4 @@ Exclude:
 - non-salaried directors;
 - self employed persons such as consultants and contractors; and
 - volunteers.
-
-## guidance
-undefined
 

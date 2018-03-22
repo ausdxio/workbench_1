@@ -7,7 +7,7 @@ de5071
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the Credit Risk component of Management Capital Resilience Reserve (RRCR), to be calculated as:
@@ -45,7 +45,4 @@ e) the alignment necessary to ensure the remaining assets and the other liabilit
 The Management Capital Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment ( as per the management capital standard), such that after the changes the admissible assets of the general fund are able to meet the liabilities of the general fund in accordance with the management capital standard.
 
 General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
-
-## guidance
-undefined
 

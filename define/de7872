@@ -7,7 +7,7 @@ de7872
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the amount of adjusted deposits placed with the reporting party as at the relevant date.
@@ -15,7 +15,4 @@ This is the amount of adjusted deposits placed with the reporting party as at th
 If the total deposits placed with the reporting party exceed the amount of total deposits the reporting party has placed with others, then this amount is the total deposits the reporting party has placed with others (i.e. deposit assets).
 
 If the reverse is true (i.e. the total deposits placed with the reporting party does not exceed the amount of total deposits the reporting party has placed with others) then the amount is the total deposits placed with the reporting party (i.e. deposit liabilities).
-
-## guidance
-undefined
 

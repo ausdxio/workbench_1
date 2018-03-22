@@ -7,7 +7,7 @@ de8014
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of the total committed amount, or limit, of total funding and liquidity type facilities and swaps. For the purpose of this item, report the notional principal amount of swaps. 
@@ -20,7 +20,4 @@ This item represents the following:
       - credit enhancements  provided to securitisation programs;
       - swaps entered into with securitisation programs; and
       - any other facilities provided to securitisation programs.
-
-## guidance
-undefined
 

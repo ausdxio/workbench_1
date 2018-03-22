@@ -7,7 +7,7 @@ de5596
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the basic capital requirements liabilities in accordance with the solvency standard.
@@ -27,7 +27,4 @@ a) the lowest Termination Value that the reporting party is obliged to pay; and
 b) the amount calculated in accordance with the Surrender Value Standard.
 
 The Expense Reserve is the component of the determination of the requirement under the solvency standard that reflects capital requirements arising from expense risks in a closed fund scenario.
-
-## guidance
-undefined
 

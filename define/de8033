@@ -7,7 +7,7 @@ de8033
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, in relation to positions giving rise to foreign exchange risk, as determined in accordance with relevant prudential standards.
@@ -21,7 +21,4 @@ This item represents the following:
 For the purposes of this item:
 - include unearned but expected future interest and anticipated expenses if the amounts are certain and the reporting party has hedged them; and
 - exclude any structural positions, where permitted by the relevant prudential standards.
-
-## guidance
-undefined
 

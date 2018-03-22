@@ -7,7 +7,7 @@ de8838
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of Net Premiums Liabilities calculated in accordance with relevant prudential standards as UPL - DAC - DRE + URL + other items, where:
@@ -21,7 +21,4 @@ DRE = Deferred Reinsurance Expense as determined in accordance with the relevant
 URL = Unexpired Risk Liability as determined in accordance with the relevant accounting standards.
 
 Other items include anything else required under the relevant accounting standards to be included in the calculation of Net Premium Liabilities.
-
-## guidance
-undefined
 

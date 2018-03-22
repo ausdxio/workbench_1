@@ -7,7 +7,7 @@ de5712
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the net value of all acquisition and disposal transactions of investment property. These transactions involve the exchange of valuable consideration between counterparties. Where this results in a net decrease in the net market value of assets, then report a negative figure.
@@ -19,7 +19,4 @@ Include:
 - Underlying property investments held in the form of an external individually managed mandate/portfolio or discretely managed portfolio. 
 Exclude: 
 - Direct investments in property trusts (both listed and unlisted).
-
-## guidance
-undefined
 

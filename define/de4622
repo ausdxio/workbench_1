@@ -7,7 +7,7 @@ de4622
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the value of the effective movement in net policy liabilities, calculated as:
@@ -17,7 +17,4 @@ Report the value of the effective movement in net policy liabilities, calculated
 - plus non-premium related fees for management services (which would otherwise be recognised as a reduction in policy liabilities);
 - plus movements in the liability for deferred fee revenue (which are reported as part of Fees for Management Services Rendered but would otherwise result in a change in policy liabilities for Investment Contracts);
 - less movements in the liability for deferred acquisition costs (which are reported as part of Operating Expenses but would otherwise result in a change in policy liabilities for Investment Contracts).
-
-## guidance
-undefined
 

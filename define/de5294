@@ -7,7 +7,7 @@ de5294
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the net market value or fair value of counterparty exposures to investment property, after adjusting for derivatives.
@@ -25,7 +25,4 @@ Off-balance sheet exposures refer to items that are not recognised in the statem
 Where credit risk is unequivocally transferred to a third party by an irrevocable letter of credit or a direct guarantee, the exposure is to the third party.
 
 Net market value or fair value, as defined by the Australian Accounting Standards is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
-
-## guidance
-undefined
 

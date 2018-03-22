@@ -7,11 +7,8 @@ de4881
 Standard
 
 ## type
-undefined
+boolean
 
 ## definition
 This will only be present in the Report Header tuple if the D2A form version can be nillable. The value of this item may be true or false.
-
-## guidance
-undefined
 

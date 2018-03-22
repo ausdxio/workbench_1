@@ -7,7 +7,7 @@ de7938
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is, as at the relevant date, the exposure weighted average loss given default (LGD) for on-balance sheet credit exposures.
@@ -21,7 +21,4 @@ LGDi = the LGD associated with the ith exposure in the group.
 EADi = the EAD associated with the ith exposure in the group.
 
 Loss given default (LGD) represents an entities economic loss upon the default of an obligor.
-
-## guidance
-undefined
 

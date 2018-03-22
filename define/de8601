@@ -7,7 +7,7 @@ de8601
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is a balancing item in the list in which it is being used.
@@ -17,7 +17,4 @@ This is for the duration of the relevant period, the value of realised gains (lo
 This item does not include foreign currency gains (losses) that occur due to currency translation.
 
 Gains (losses) are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant period, then any increases or decreases in the fair value of the asset are recognised as unrealised gains (losses).
-
-## guidance
-undefined
 

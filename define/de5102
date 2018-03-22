@@ -7,7 +7,7 @@ de5102
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the inadmissible value of investment property, as per the solvency standard. 
@@ -17,7 +17,4 @@ Property investments are holdings of property acquired with the intent to derive
 The inadmissible investment property assets are: 
 a) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing; and
 b) amounts by which the recorded value of an asset exceeds its net realisable value.
-
-## guidance
-undefined
 

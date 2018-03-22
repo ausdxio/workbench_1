@@ -7,7 +7,7 @@ de5185
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the value of the investment linked business reserve determined in accordance with the management capital standard.
@@ -17,7 +17,4 @@ This is determined as 0.25% of the greater of the Policy Liability value in resp
 MTV is the amount that the reporting party is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
 a) the lowest Termination Value that the reporting party is obliged to pay; and 
 b) the amount calculated in accordance with the Surrender Value Standard.
-
-## guidance
-undefined
 

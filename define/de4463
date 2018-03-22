@@ -7,7 +7,7 @@ de4463
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the look-through adjustment for other investment assets held indirectly via listed unit trusts, unlisted unit trusts or controlled unit trusts. This will contain investment assets other than:
@@ -18,7 +18,4 @@ Report the look-through adjustment for other investment assets held indirectly v
 - Loans
 
 A look through adjustment item represents the adjustment required to convert effective holdings in investments via trusts from aggregated amounts classified as other investment assets or unit trusts to the appropriate categories on a look-through basis.
-
-## guidance
-undefined
 

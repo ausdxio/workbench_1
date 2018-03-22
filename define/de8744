@@ -7,7 +7,7 @@ de8744
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, of all assets of the reporting party that are not designated as "Loans and Advances" or "Debt Securities".
@@ -27,7 +27,4 @@ Loans and Advances are, for the purposes of this item, defined as those financia
 -  endorsement liabilities arising from bills rediscounted abroad
 - subordinated loans (including subordinated non-negotiable debt securities)
 - Loans which have become negotiable de facto should be classified under debt securities (For doing so there needs to be evidence of a secondary market trading.)
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de5303
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the value of the Adverse Exchange Movement Adjustment in relation to the admissible value of Gross Policy Liabilities ceded under reinsurance with resilience requirement, as per the solvency standard.
@@ -25,7 +25,4 @@ e) reinsurance assets which may not be fully recoverable in the context of the s
 f) amounts by which the recorded value of an asset exceeds its net realisable value.
 
 Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
-
-## guidance
-undefined
 

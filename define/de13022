@@ -7,11 +7,8 @@ de13022
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, for the capital charge applied to the credit value adjustment (CVA) risk. This is the difference between the risk-free portfolio value and the true portfolio value that takes into account the possibility of a counterparty's default. It is calculated in accordance with the relevant prudential standard.
-
-## guidance
-undefined
 

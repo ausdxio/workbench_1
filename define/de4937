@@ -7,7 +7,7 @@ de4937
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the effective amount to be included as an offset or addition to the value of the "greater of Policy Liability (as determined in accordance with the assumptions of the solvency standard) and Minimum Termination Value" resulting from effective risk mitigation activities.
@@ -19,7 +19,4 @@ The greater of policy liability and minimum termination value is the aggregate o
 MTV is the amount that a life insurer is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
 a) the lowest Termination Value that the reporting party is obliged to pay; and 
 b) the amount calculated in accordance with the Surrender Value Standard.
-
-## guidance
-undefined
 

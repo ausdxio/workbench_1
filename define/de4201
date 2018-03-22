@@ -7,7 +7,7 @@ de4201
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is a balancing item within the list in which it is being used.
@@ -18,7 +18,4 @@ Report the value of asset allocations with an exposure other than to:
 - property;
 - fixed interest;
 - cash.
-
-## guidance
-undefined
 

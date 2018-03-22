@@ -7,11 +7,8 @@ de4899
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the aggregate of the greater of the Solvency Liability value (calculated using assumptions as per the solvency standard) or the Minimum Termination Value (MTV) of each related product group (RPG), gross of reinsurance.
-
-## guidance
-undefined
 

@@ -7,7 +7,7 @@ de5549
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 Report the total Resilience Reserve (RR) for this reporting party, to be calculated as:
@@ -40,7 +40,4 @@ e) reinsurance assets which may not be fully recoverable in the context of the s
 f) amounts by which the recorded value of an asset exceeds its net realisable value.
 
 The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment, such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund. There is no resilience requirement where the policy owner liabilities of the statutory fund move in harmony with the assets supporting them.
-
-## guidance
-undefined
 

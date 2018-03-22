@@ -7,7 +7,7 @@ de8020
 Standard
 
 ## type
-undefined
+float
 
 ## definition
 This is the value, as at the relevant date, that relates to short positions giving rise to interest rate risk, calculated in accordance to the relevant prudential standards. This item includes short positions in:
@@ -16,7 +16,4 @@ This is the value, as at the relevant date, that relates to short positions givi
 - options that are subject to a change in value following a change in interest rates.
 
 Short positions represent positions where a fall in the value of the asset or derivative would result in a profit.
-
-## guidance
-undefined
 
