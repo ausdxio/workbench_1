@@ -1,0 +1,14 @@
+# Assets Interest Bearing Securities Amount
+
+## identifier
+de12983
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of interest bearing securities. Interest bearing securities are debt securities paying an income stream based upon an interest rate consistent with the classification and measurement basis used for investment securities in accordance with relevant accounting standards.
+

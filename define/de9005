@@ -1,0 +1,19 @@
+# Regulatory Disclosures Compliance Accrual Going Concern Principle Indicator
+
+## identifier
+de9005
+
+## status
+Standard
+
+## type
+boolean
+
+## definition
+This is the indicator for the duration of the relevant period, that the financial statements comply with accrual and going concern principle.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The financial statements comply with accrual and going concern principle
+FALSE = The financial statements do not comply with accrual and going concern principle
+

@@ -1,0 +1,14 @@
+# Expense Insurance Claim Payments Amount
+
+## identifier
+de13038
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of total claim payments to meet liabilities to policy owners.
+

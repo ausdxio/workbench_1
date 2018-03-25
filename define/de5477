@@ -1,0 +1,16 @@
+# Liabilities Investment Fees Net Incurrence Settlement Transactions Amount
+
+## identifier
+de5477
+
+## status
+Standard
+
+## type
+float
+
+## definition
+Record the net of all incurrance and settlement transactions, during the relevant period, of investment fees payable.
+
+Investment fees are typically amounts payable to an entity that arise as a result of investing activities undertaken.
+

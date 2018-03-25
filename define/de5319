@@ -1,0 +1,14 @@
+# Superannuation Regulatory Information Trustee Financial Advice Description
+
+## identifier
+de5319
+
+## status
+Standard
+
+## type
+string
+
+## definition
+If the trustee of the reporting party provides financial advice, provide a description of the advice.
+

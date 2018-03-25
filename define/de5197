@@ -1,0 +1,14 @@
+# Financial Risk Capital Adequacy Margin Disability Income Active Lives Percent
+
+## identifier
+de5197
+
+## status
+Standard
+
+## type
+float
+
+## definition
+Report the Capital Adequacy Margin applied to the best estimate assumptions of disability income (active lives), as per the capital adequacy standard. The margin must be applied so as to produce a more conservative estimate of the liability than best estimate.
+

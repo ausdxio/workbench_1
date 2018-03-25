@@ -1,0 +1,14 @@
+# Assets Exposures Contract Count
+
+## identifier
+de13192
+
+## status
+Standard
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of contracts underlying the exposure.
+

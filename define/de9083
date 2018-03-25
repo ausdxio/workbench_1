@@ -1,0 +1,14 @@
+# Regulatory Disclosures Insurance Confidence Level Reason Description
+
+## identifier
+de9083
+
+## status
+Standard
+
+## type
+string
+
+## definition
+This is the description of the reason for the confidence level provided.
+

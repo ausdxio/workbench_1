@@ -1,0 +1,14 @@
+# Assets Cash And Liquid Assets Claims Central Bank Other Amount
+
+## identifier
+de14885
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, of all claims on central banks that do not qualify as central bank reserves and balances.
+

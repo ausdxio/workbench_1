@@ -1,0 +1,14 @@
+# Financial Risk Dividend Yield Percent
+
+## identifier
+de12865
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the dividend yield of the S&P /ASX 200 index, used in determining the reduction in equity asset values under the equity stress scenario. This item is to be determined in accordance with relevant prudential standards.
+

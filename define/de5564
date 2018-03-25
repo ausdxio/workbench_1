@@ -1,0 +1,14 @@
+# Identifiers Superannuation Entity Registration Number APRA Identifier
+
+## identifier
+de5564
+
+## status
+Standard
+
+## type
+string
+
+## definition
+Report the value, as at the relevant date, of the registration number of the reporting party. The registration number is a number issued by APRA to each Registrable Superannuation Entity (RSE) in order to uniquely identify the entity.
+

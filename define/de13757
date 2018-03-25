@@ -1,0 +1,14 @@
+# Superannuation Regulatory Information Audit Registrable Superannuation Entity Count
+
+## identifier
+de13757
+
+## status
+Standard
+
+## type
+int
+
+## definition
+This is the number of Registrable Superannuation Entities (RSEs) within an RSE licensee's business operations that the RSE auditor is appointed to audit.
+

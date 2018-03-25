@@ -1,0 +1,14 @@
+# Income Insurance Discount Amount
+
+## identifier
+de14131
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the effects any discounts have on health insurance business premiums earned.
+

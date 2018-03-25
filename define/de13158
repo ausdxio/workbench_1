@@ -1,0 +1,14 @@
+# Financial Risk Stress Test Date
+
+## identifier
+de13158
+
+## status
+Standard
+
+## type
+string
+
+## definition
+This is the date on which a stress test is undertaken with respect to the investment option.
+

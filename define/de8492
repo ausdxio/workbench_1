@@ -1,0 +1,16 @@
+# Income Insurance Commission Excluding Reinsurer Premium Rebates Amount
+
+## identifier
+de8492
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of commission revenue earned in relation to the insurance business. This item is determined in accordance with the relevant Accounting Standards.
+
+This item excludes premium rebates received from reinsurers.
+
