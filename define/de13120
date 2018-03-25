@@ -1,0 +1,20 @@
+# Superannuation Regulatory Information Transition Replenishment Plan Code
+
+## identifier
+de13120
+
+## status
+Standard
+
+## type
+string
+
+## definition
+This indicates whether or not the entity has a transition plan or a replenishment plan in force, as required by relevant prudential standards.
+
+## guidance
+The valid enumerated values are: 
+Transition Plan = Yes, the entity has a transition plan to meet the relevant requirement; 
+Replenishment Plan = Yes, the entity has a replenishment plan to meet the relevant requirement; 
+No Plan = No, the entity has neither a transition nor a replenishment plan to meet the relevant requirement.
+

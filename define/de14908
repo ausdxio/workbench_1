@@ -1,0 +1,14 @@
+# Regulatory Disclosures Interest Rate Variable Weighted Average Rate
+
+## identifier
+de14908
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the weighted average interest rate for variable-rate loans calculated as the average of the individual loans' contractual interest rates, weighted by the credit limit during the relevant period.
+

@@ -1,0 +1,14 @@
+# Income Insurance Premium Rebate Amount
+
+## identifier
+de13124
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of rebates received from the insurer in respect of members' insurance premiums paid to that insurer.
+

@@ -1,0 +1,14 @@
+# Financial Risk Capital Adequacy Margin Other Insured Events Percent
+
+## identifier
+de4998
+
+## status
+Standard
+
+## type
+float
+
+## definition
+Report the Capital Adequacy Margin applied to the best estimate assumptions of other insured events, as per the capital adequacy standard. The margin must be applied so as to produce a more conservative estimate of the liability than best estimate.
+

@@ -1,0 +1,14 @@
+# Organisation Control Members Departed Count
+
+## identifier
+de5566
+
+## status
+Standard
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of member accounts that have closed.
+

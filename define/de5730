@@ -1,0 +1,20 @@
+# Service Provider Custodian Indicator
+
+## identifier
+de5730
+
+## status
+Standard
+
+## type
+boolean
+
+## definition
+Has the reporting party engaged an independent custodian for funds under management?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party has engaged an independent custodian for funds under management.
+FALSE = The reporting party has not engaged an independent custodian for funds under management.
+

@@ -1,0 +1,19 @@
+# Regulatory Disclosures Insurance Product Disclosure Statement Issued Indicator
+
+## identifier
+de9004
+
+## status
+Standard
+
+## type
+boolean
+
+## definition
+Is a Product Disclosure Statement (PDS) issued to all prospective members?
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = a Product Disclosure Statement (PDS) is issued to all prospective members
+FALSE = a Product Disclosure Statement (PDS) is not issued to all prospective members
+

@@ -1,0 +1,16 @@
+# Liabilities Insurance Policy Gross Inwards Reinsurance Amount
+
+## identifier
+de4835
+
+## status
+Standard
+
+## type
+float
+
+## definition
+Gross Policy Liability in respect of inwards reinsurance business.
+
+This should be the gross figure, not net of retrocessions.
+

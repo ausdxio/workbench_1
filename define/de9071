@@ -1,0 +1,20 @@
+# Regulatory Disclosures Insurance Confidence Level Code
+
+## identifier
+de9071
+
+## status
+Standard
+
+## type
+string
+
+## definition
+This is an indicator for the confidence level that all calls made on members will be paid in full.
+
+## guidance
+Valid enumeration values are:
+High;
+Medium; or
+Low.
+

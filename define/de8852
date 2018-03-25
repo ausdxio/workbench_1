@@ -1,0 +1,20 @@
+# Financial Services Insurance Basis Used Premiums Liabilities Code
+
+## identifier
+de8852
+
+## status
+Standard
+
+## type
+string
+
+## definition
+This item represents the basis used by which premiums liabilities are reported.
+
+## guidance
+Allowable values for this item are:     
+- Prudential;    
+- Accounting; and   
+- Mix
+

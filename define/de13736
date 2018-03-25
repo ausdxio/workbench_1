@@ -1,0 +1,19 @@
+# Person Demographic Details Gender Restricted Code
+
+## identifier
+de13736
+
+## status
+Standard
+
+## type
+string
+
+## definition
+This indicates the gender of an individual person where male or female are the only allowable options.
+
+## guidance
+The valid enumerated values are: 
+Female = Where the gender is female.
+Male = Where the gender is male.
+

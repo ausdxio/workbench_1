@@ -1,0 +1,14 @@
+# Profit Or Loss Investment Other Amount
+
+## identifier
+de1996
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for a balancing item within the list in which it is being used.
+

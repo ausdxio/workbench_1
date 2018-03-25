@@ -1,0 +1,14 @@
+# Income Tax Superannuation Contributions Tax Amount
+
+## identifier
+de1959
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the tax expense in relation to taxable contributions made into the superannuation entity, and specified rollover amounts.
+

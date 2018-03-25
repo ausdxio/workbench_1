@@ -1,0 +1,14 @@
+# Financial Risk Risk Charge Operational Impact Amount
+
+## identifier
+de13256
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the impact on the operational risk capital charge arising from the failure of a reinsurance counterparty.
+

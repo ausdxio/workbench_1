@@ -1,0 +1,14 @@
+# Equity Reserves Cash Flow Hedge Reserve Amount
+
+## identifier
+de1545
+
+## status
+Standard
+
+## type
+float
+
+## definition
+Report the value of the reserve in relation to the effective portion of the gain or loss on the cash flow hedging instrument as determined in accordance with the accounting standards.
+

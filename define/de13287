@@ -1,0 +1,14 @@
+# Off Balance Sheet Foreign Exchange Cash Outflows Amount
+
+## identifier
+de13287
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all foreign exchange (FX) transaction outflows (including spot trades), include both exchange traded and over the counter.
+

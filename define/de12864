@@ -1,0 +1,14 @@
+# Financial Risk Deductions For Net Premiums Liability Amount
+
+## identifier
+de12864
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of deductions to the Probable Maximum Loss (PML) for the net premium liability that relates to an economic downturn. This is to be determined in accordance to the relevant prudential standards.
+

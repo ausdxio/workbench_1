@@ -1,0 +1,18 @@
+# Assets Exposures Cash And Liquid Assets Amount
+
+## identifier
+de12817
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of counterparty exposures to notes and coins; deposits withdrawable or redeemable within 24 hours; and securities purchased under agreements to resell.
+
+An exposure to a counterparty or a group of related counterparties is the aggregate of claims and commitments arising from on-balance sheet transactions with all counterparties.
+
+On-balance sheet refers to those assets, or exposure items, which are recognised or recorded on the statement of financial position of the reporting entity, as determined in accordance with relevant Accounting Standards.
+

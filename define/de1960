@@ -1,0 +1,14 @@
+# Income Tax Superannuation Contributions Surcharge Amount
+
+## identifier
+de1960
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the surcharge expense . This is represented by the amount paid by the superannuation entity to the Australian Taxation Office, plus any amount taken up as a liability by the superannuation entity for any unpaid surcharge as at the end of the reporting period, less any liability for unpaid surcharge taken up at the end of the previous reporting period.
+

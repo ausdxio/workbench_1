@@ -1,0 +1,14 @@
+# Superannuation Regulatory Information Independent Actuarial Advice Commissioned Date
+
+## identifier
+de5452
+
+## status
+Standard
+
+## type
+string
+
+## definition
+If independent actuarial advice has been commissioned by the reporting party during the relevant period, record the date of the last actuarial report.
+

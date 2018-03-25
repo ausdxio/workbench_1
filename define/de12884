@@ -1,0 +1,14 @@
+# Financial Risk Probable Maximum Loss Adjustment Amount
+
+## identifier
+de12884
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of adjustment to the probable maximum loss that is already specifically allowed for in the premiums liabilities of the insurer.
+
