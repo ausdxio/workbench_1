@@ -1,0 +1,14 @@
+# Financial Risk Prescribed Capital Adjustment Impact Amount
+
+## identifier
+de13257
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the impact on prescribed capital amount arising from the failure of a reinsurance counterparty.
+

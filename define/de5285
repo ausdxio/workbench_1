@@ -1,0 +1,16 @@
+# Financial Risk Solvency Surplus Or Deficit Amount
+
+## identifier
+de5285
+
+## status
+Standard
+
+## type
+float
+
+## definition
+Report the surplus or deficit calculated as the difference between:
+a) The total assets as determined in accordance with the accounting standards; and 
+b) The total capital requirement as determined in accordance with the solvency standard
+

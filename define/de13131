@@ -1,0 +1,14 @@
+# Regulatory Disclosures Insurance Claims Paid Count
+
+## identifier
+de13131
+
+## status
+Standard
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of insurance claims paid.
+

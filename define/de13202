@@ -1,0 +1,14 @@
+# Superannuation Regulatory Information Tax Expense Benefit Percent
+
+## identifier
+de13202
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, of the tax benefits/expenses derived from fees or costs charged to a member.
+

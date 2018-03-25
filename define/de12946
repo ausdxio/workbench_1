@@ -1,0 +1,14 @@
+# Liabilities Insurance Provisions Expected Premiums Claims Amount
+
+## identifier
+de12946
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of claim payments arising from premiums expected to be received.
+

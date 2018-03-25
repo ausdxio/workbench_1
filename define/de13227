@@ -1,0 +1,14 @@
+# Superannuation Regulatory Information Member Profile Maximum Account Balance Amount
+
+## identifier
+de13227
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the maximum allowable member account balance in the product.
+

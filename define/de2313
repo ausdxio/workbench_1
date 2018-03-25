@@ -1,0 +1,14 @@
+# Profit Or Loss Prospective Underwriting Result Amount
+
+## identifier
+de2313
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the underwriting results is the net premium revenue less claims and direct underwriting expenses.
+

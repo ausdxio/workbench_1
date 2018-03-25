@@ -1,0 +1,19 @@
+# Organisation Control Group Board Indicator
+
+## identifier
+de13735
+
+## status
+Standard
+
+## type
+boolean
+
+## definition
+This indicates whether the board remuneration committee is a group board remuneration committee.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the board remuneration committee is a group board remuneration committee.
+false = the board remuneration committee is not a group board remuneration committee.
+

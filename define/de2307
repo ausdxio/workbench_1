@@ -1,0 +1,14 @@
+# Expense Prospective Incurred Claims Net Amount
+
+## identifier
+de2307
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the net claims being gross claims less recoveries revenue.
+

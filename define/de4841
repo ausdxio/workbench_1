@@ -1,0 +1,14 @@
+# Expense Insurance Outward Reinsurance Premium Deposit Component Amount
+
+## identifier
+de4841
+
+## status
+Standard
+
+## type
+float
+
+## definition
+Report deposit elements for life investment and life insurance investment account business written as outwards reinsurance - i.e. exclude any revenue components. Include the deposit component of premiums in respect of deferred or immediate annuities that are life investment business written as outwards reinsurance.
+

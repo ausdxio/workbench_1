@@ -1,0 +1,14 @@
+# Assets Adjusted Covered Bond Amount
+
+## identifier
+de14920
+
+## status
+Standard
+
+## type
+float
+
+## definition
+The values of total assets on the entities domestic books adjusted to exclude goodwill, assets in cover pools (and any related loans to a covered bond special purpose vehicle) and double-counting.
+

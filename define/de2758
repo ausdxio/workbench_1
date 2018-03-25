@@ -1,0 +1,14 @@
+# Liabilities Other Financial Liabilities Trade Day Versus Settlement Adjustments Amount
+
+## identifier
+de2758
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for any timing adjustments made to liability total for recording securities held on a settlement day rather than trade day basis.
+

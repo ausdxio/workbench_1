@@ -1,0 +1,14 @@
+# Miscellaneous Preferred Invoice Format Code
+
+## identifier
+de8667
+
+## status
+Standard
+
+## type
+string
+
+## definition
+Indicates the entity's preferred method for receiving APRA levy invoices.
+

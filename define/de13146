@@ -1,0 +1,14 @@
+# Financial Risk Asset Allocation Percent
+
+## identifier
+de13146
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the proportion of assets allocated to meet the objectives of the strategy.
+

@@ -1,0 +1,14 @@
+# Regulatory Disclosures Insurance Basis Maximum Call Amount Other Description
+
+## identifier
+de9019
+
+## status
+Standard
+
+## type
+string
+
+## definition
+This is the description of the methodology used to calculate the maximum call amount, if the basis was not "specified amount" or "percent of contribution".
+

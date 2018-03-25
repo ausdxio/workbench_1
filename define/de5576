@@ -1,0 +1,14 @@
+# Superannuation Regulatory Information Defined Benefits Date
+
+## identifier
+de5576
+
+## status
+Standard
+
+## type
+string
+
+## definition
+Report the last date of the applicable (valuation or estimate) defined benefits calculation conducted.
+

@@ -1,0 +1,14 @@
+# Liabilities Insurance Discounting On Net Outstanding Claims Amount
+
+## identifier
+de8566
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value of discounting on net outstanding claims. This includes the impact of discounting the net actuarial central estimate of outstanding claims (excluding claims handling expenses).
+

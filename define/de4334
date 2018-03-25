@@ -1,0 +1,14 @@
+# Income Insurance Premium Net Of Reinsurance Deposit Component Amount
+
+## identifier
+de4334
+
+## status
+Standard
+
+## type
+float
+
+## definition
+Report the total deposit (investment) component of premiums received from all insurance investment policies, net of reinsurance.
+

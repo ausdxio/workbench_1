@@ -1,0 +1,14 @@
+# Regulatory Disclosures Insurance Claims Admitted Amount
+
+## identifier
+de13130
+
+## status
+Standard
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of claims where a final decision to admit the claim has been made by the insurance provider but payment has not yet been made by the insurance provider to members and/or their beneficiaries.
+
