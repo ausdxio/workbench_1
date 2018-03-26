@@ -2,8 +2,9 @@
 
 ## identifier
 def01
+
 ## status
-drafts [published|candidate|..]
+draft [published|candidate|..]
 
 ## type
 
