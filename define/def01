@@ -3,7 +3,7 @@
 ## identifier
 def01
 ## status
-draft [published|candidate|..]
+drafts [published|candidate|..]
 
 ## type
 
@@ -30,4 +30,4 @@ the guidance
 - columnName=col
 =======
 - columnName=col
->>>>>>> parent of b275b56... Revert "Rename+Updating /define/"
+>>>>>>> parent of b275b56... Revert "Rename Updating /define/"
