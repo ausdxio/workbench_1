@@ -1,0 +1,3 @@
+[remote "origin"]
+	url = https://github.com/ausdxio/workbench_1.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
