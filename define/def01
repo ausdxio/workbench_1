@@ -4,7 +4,7 @@
 def01
 
 ## status
-draft [published|candidate|..]
+drafts [published|candidate|..]
 
 ## type
 
