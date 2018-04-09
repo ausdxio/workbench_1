@@ -26,5 +26,5 @@ the guidance
 
 ## syntax
 
-### techA
-- columnName=col
+### xbrl
+- balance=debit
