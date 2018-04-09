@@ -8,7 +8,7 @@ drafts [published|candidate|..]
 
 ## type
 
-float [int|string|boolean ]
+float
 
 ## definition
 
@@ -28,3 +28,4 @@ the guidance
 
 ### xbrl
 - balance=debit
+
