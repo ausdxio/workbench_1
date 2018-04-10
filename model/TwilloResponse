@@ -6,9 +6,10 @@ TwilloResponse
 
 SMSMessage
  Sid:string
- 
- // This is the creation date
- // Any dates in the future will cause an error
+ /**
+ This is the creation date
+ Any dates in the future will cause an erro
+ */
  DateCreated:string
  
  DateUpdated:string
