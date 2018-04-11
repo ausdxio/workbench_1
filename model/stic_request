@@ -12,6 +12,10 @@ Request
  person:Person
  address:Address
  account:Account
+ geo:Geo
+ 
+Geo
+ somethingNew:(http://dxa.gov.au/definition/fs/de13091)
 
 Account
  accountNumber:(http://dxa.gov.au/definition/trc/de7461)
