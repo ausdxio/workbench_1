@@ -1,0 +1,29 @@
+# Another new element
+
+## identifier
+de8001
+
+## type
+
+float
+
+## definition
+
+the definition
+
+## guidance
+
+the guidance
+
+## enumerations
+- 
+
+## facets
+- maxLength=5
+- minLength=5
+- pattern=[a-z] 5
+
+## syntax
+
+### xbrl
+- balance=debit
