@@ -22,4 +22,7 @@ SMSMessage
  Flag:string[]
  ApiVersion:string
  Price:float
- Uri:string
+ /**
+ Our service will not accept URIs with query parameters
+ */
+ Uri:(https://ausdx-lab.herokuapp.com/define/de12)
