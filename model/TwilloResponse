@@ -26,4 +26,11 @@ SMSMessage
  /**
  Our service will not accept URIs with query parameters
  */
- Uri:(https://ausdx-lab.herokuapp.com/define/de12)
+ Uri:(http://shuck.io/define/de12)
+ another:Thing
+ 
+Thing
+ int:int
+ string:string
+ bool:boolean
+ 
