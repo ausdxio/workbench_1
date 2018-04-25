@@ -25,5 +25,5 @@ SMSMessage
  /**
  Our service will not accept URIs with query parameters
  */
- Uris:(https://shuck.io/define/de12)
+// Uris:(https://shuck.io/define/de12)
 
