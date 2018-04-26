@@ -5,7 +5,7 @@ TwilloResponse
 
 
 SMSMessage
- Sid:string
+ Sid:string?
  /**
  This is the creation date
  Any dates in the future will cause an erro
@@ -19,7 +19,7 @@ SMSMessage
  From:string
  Body:string
  Status:string
- Flag:string[]
+ Flag:string[]?
  ApiVersion:string
  Price:float
  /**
