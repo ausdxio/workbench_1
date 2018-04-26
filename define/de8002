@@ -1,0 +1,29 @@
+# Test Definition
+
+## identifier
+de8002
+
+## type
+
+string
+
+## definition
+
+the definition
+
+## guidance
+
+the guidance
+
+## enumerations
+- 
+
+## facets
+- maxLength=5
+- minLength=5
+- pattern=[a-z] 
+
+## syntax
+
+### xbrl
+- balance=debit
